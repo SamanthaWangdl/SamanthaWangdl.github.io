@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-01-09T02:52:25.422Z</updated>
+    <updated>2021-01-09T03:30:31.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -10,6 +10,185 @@
     <logo>https://SamanthaWangdl.github.io/images/avatar.png</logo>
     <icon>https://SamanthaWangdl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 润</rights>
+    <entry>
+        <title type="html"><![CDATA[Ph.D. Grind：及时止损，经常做pre]]></title>
+        <id>https://SamanthaWangdl.github.io/post/phd-grindji-shi-zhi-sun-jing-chang-zuo-pre/</id>
+        <link href="https://SamanthaWangdl.github.io/post/phd-grindji-shi-zhi-sun-jing-chang-zuo-pre/">
+        </link>
+        <updated>2021-01-09T03:24:19.000Z</updated>
+        <content type="html"><![CDATA[<p>** 本文写于我大一2019年7月<br>
+<ul class="markdownIt-TOC">
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#%E6%A6%82%E8%A6%81">概要</a></li>
+<li><a href="#%E4%BB%A4%E6%88%91%E6%84%9F%E8%A7%A6%E6%AF%94%E8%BE%83%E6%B7%B1%E7%9A%84%E5%87%A0%E7%82%B9">令我感触比较深的几点：</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</p>
+<h3 id="概要">概要</h3>
+<p>Ph.D. Grind讲述了作者从进入斯坦福经历6年计算机博士毕业的过程。其中经历从开始进入错的研究方向导致3年都没有发出文章，而后在许许多多其他的机会的引导下作者走上独立非常冷门的software optimize的方向，并在贵人的帮助下独立完成Incpy、CDE等5个项目，最终成功毕业的故事。</p>
+<p>对于作者帮助最大有以下几点：</p>
+<ul>
+<li>在workshop的presentation后遇到贵人</li>
+<li>在自己coldemail中找到重要贵人</li>
+<li>微软实习和谷歌实习都一定程度让他转型到后来的研究方向</li>
+</ul>
+<h3 id="令我感触比较深的几点">令我感触比较深的几点：</h3>
+<ul>
+<li>Creative ideas mean nothing without the great effort to bring them fruition：看过作者经历数千小时的磨难才将自己的项目的代码完成，而这个想法确实他在博一就想出过的，这让我意识到在science领域提出新观点的确重要，但是后期的优化和不断的改进才是把理论变成产品的关键。</li>
+<li>我也非常想真的做好一个产品，让更多的人喜欢上它。在作者将自己的项目放到网上，并建立社区来运营，甚至提供给其他领域的老师使用，这种成就感也让我心潮澎湃。相比作者说的其他那些只将学术成果放在象牙塔内，只留下想法而不打磨的事业，我还是比较喜欢做工程和做企业。</li>
+<li>Ideas beget idea：相比作者后面的几个项目，他走上这个研究领域的过程更加困难。</li>
+<li>真诚的对帮助的贵人表示感谢</li>
+<li>经常出去做pre能提高遇到贵人的机会，并经常身边的人讨论，simply doing good work isn't enough to get noticed in a hyper-competitive field.</li>
+<li>学术圈有套路，发文章需要抱对大腿。找到领域最aggresive的教授（希望拿到tenure的）能极大简化发展过程。</li>
+<li>拥有没有任何limitation 的sponsership会为你带来巨大的自由，你不用受制于任何人，而且任何教授都会愿意接受你。</li>
+<li>及时止损。作者的重大转折是他停止了第一个项目，否则迎接他的就是pity graduation。在没有希望的研究项目面前，及时止损转型。（当然这是需要你拥有自己的sponsership的，btw，往往拥有了tenure的话教授就会做这种不知道发不发出来的项目，巨坑）</li>
+<li>对身边的机会保持警惕，不要在一条路上走到黑。对作者最重要的几项经历反而完全不发生在他所在的实验室里。</li>
+<li>对教授和博士的动机了解清楚有助于让他们更好的帮助你,比如有tenure的教授不太会在乎发论文，没有tenure的教授会非常想发论文，高年级博士着急发文需要人打杂。</li>
+<li>Online submission forms are black holes!!!</li>
+<li>Computer science research is lab our intensive,researchers often hire Ph.D students as summer interns to help implement their ideas.</li>
+<li>科技公司的研究部门因为没有教职和行政上的要求，反而是做学术更好的地方。</li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>看完这本Ph.d grind，真真正正体会到了phd的各种grind，作者一二年级的劳动苦力，三四年级的迷惑，五六年级命悬一线，基本没有展示出任何Ph.D.的attractive point，但是正如作者在文尾说的：Ph.D. program provides a safe environment for certain types of people to push themselves far beyond their mental limits and then emerge stronger as a result. 能突破个人极限这才是要选择读Ph.D.的意义。此外学到的两点，及时止损，经常做pre。</p>
+<p>###书摘<br>
+This journey has taught me ​that creative ideas mean nothing without the extreme e↵ort to ​bring them to fruition<br>
+19年06月08日 04-16</p>
+<p>Ideas beget ideas<br>
+19年06月08日 04-15</p>
+<p>Even a quick thank-you email goes a long way<br>
+19年06月08日 04-14</p>
+<p>Express true gratitude<br>
+19年06月08日 04-14</p>
+<p>whenever I ​felt stuck, I sought experts who could help me get unstuck. Finding ​help can be as simple as asking a friend in my department, or it ​might require getting referrals or even cold-emailing strangers<br>
+19年06月08日 04-14</p>
+<p>thousands of hours ​of hard grinding would go to waste if I failed to properly pitch the ​big-picture significance of my research to my target audience: se­nior academic colleagues<br>
+19年06月08日 04-11</p>
+<p>Give many talks<br>
+19年06月08日 04-09</p>
+<p>Ally with insiders<br>
+19年06月08日 04-07</p>
+<p>Reject bad defaults<br>
+19年06月08日 04-04</p>
+<p>By understanding the motivations and per­sonalities of older Ph.D. students, professors, and other senior col­leagues, I was able to lead my own initiatives even from the bottom ​of the pecking order<br>
+19年06月08日 03-58</p>
+<p>culminating in getting to work with Margo ​at Harvard during my final year. But these fortuitous opportunities ​wouldn’t have arisen if I didn’t repeatedly put myself and my work ​on display—giving talks, chatting with colleagues, asking for and ​o↵ering help, and expressing gratitude<br>
+19年06月08日 03-57</p>
+<p>Ph.D. program provides ​a safe environment for certain types of people to push themselves far ​beyond their mental limits and then emerge stronger as a result<br>
+19年06月08日 03-53</p>
+<p>I received the opposite of a miracle: Both my IncPy and SlopPy pa­per submissions were rejected. I was disappointed but not too shocked, ​since I had already grown accustomed to paper rejections by this time.<br>
+There were lots of legitimate criticisms of my work, so I felt that ad­dressing them would strengthen my future resubmissions<br>
+19年06月03日 01-48</p>
+<p>This deep pain of dealing ​with software dependen­cies would later inspire ​CDE, the new project I ​started in Year Five<br>
+19年06月03日 12-42</p>
+<p>One benefit of presenting ​a talk on a paper is that ​people can chat with you ​about it afterward, which ​can lead to serendipity.<br>
+new Python-based project that her student Elaine was starting. Since ​<br>
+19年06月03日 12-31</p>
+<p>I discovered that ​this strategy of finding and setting short-term deadlines for myself ​would work wonders in keeping me focused throughout the rest of my ​Ph.D. years. Without self-imposed deadlines, it becomes easy to fall ​into a rut and<br>
+19年06月03日 12-30</p>
+<p>Part of luck is ​always keeping your eyes ​open for new opportuni­ties while simultaneously ​focusing enough to make ​consistent progress<br>
+19年06月03日 12-29</p>
+<p>Thus, top-tier com- That said, having work­shop papers can be a ​path toward “pity grad­uation” because it’s still ​better than having no ​published papers.<br>
+That said, having work­shop papers can be a ​path toward “pity grad­uation” because it’s still ​better than having no ​published papers.<br>
+puter science professors strongly encourage students to publish more ​selective conference papers and eschew workshops altogether<br>
+19年06月03日 12-27</p>
+<p>since if the paper gets accepted (which is likely), ​the professor must pay around $1,500 of travel, hotel, and registration ​costs using their grant money for the student to attend and give a ​talk at the workshop<br>
+19年06月03日 12-26</p>
+<p>. The ​combination of a well-defined, short-term goal and continual helpful This is an unbeatable ​combination, and one ​that I try to provide for ​my own students.<br>
+that I try to provide for feedback made my internship workdays much more productive than ​those during my previous three years of grad school<br>
+19年06月01日 12-52</p>
+<p>From this ​experience, I learned about the importance of being endorsed by an ​influential person; simply doing good work isn’t enough to get noticed ​in a hyper-competitive field.</p>
+<p>---------------<br>
+学会如何和更厉害愿意帮助自己的人链接关系<br>
+19年06月01日 12-49</p>
+<p>From this ​experience, I learned about the importance of being endorsed by an ​influential person; simply doing good work isn’t enough to get noticed ​in a hyper-competitive field<br>
+19年06月01日 12-49</p>
+<p>Having a published pa­per was crucial here, ​since I could point Tom ​to a vetted document ​instead of just rambling ​about my idle specula­tions on this topic<br>
+19年06月01日 12-47</p>
+<p>If I didn’t do a great job ​during my first under­graduate research project ​and keep in touch with ​my supervisor throughout ​the years, then this lucky ​connection wouldn’t have ​happened<br>
+19年06月01日 12-46</p>
+<p>Online submission forms ​are black holes. Anything ​is better than blindly ​submitting online<br>
+19年06月01日 12-45</p>
+<p>Since lots of computer science ​research is labor-intensive, researchers often hire Ph.D. students as ​summer interns to help implement their ideas<br>
+---------------<br>
+也许科技公司的研究部门也是我可以考虑的暑假申请地方<br>
+19年06月01日 12-41</p>
+<p>Since lots of computer science ​research is labor-intensive, researchers often hire Ph.D. students as ​summer interns to help implement their ideas<br>
+19年06月01日 12-41</p>
+<p>Getting a full-time researcher position at MSR is as di&quot;cult as Some researchers I know ​there also got faculty job ​offers at top universities. getting a job as a professor at a prestigious university<br>
+19年06月01日 12-40</p>
+<p>The full-time researchers are like professors, ​except that they can focus nearly all of their time on research since ​they don’t have teaching or advising duties. But perhaps their favorite ​job benefit is that they don’t need to apply for grant funding, which is ​a tedious recurring activity that saps professors’ time<br>
+---------------<br>
+原来科技公司的研究部门是可以更加纯粹的研究，而没有行政上的琐事<br>
+19年06月01日 12-40</p>
+<p>But perhaps their favorite ​job benefit is that they don’t need to apply for grant funding, which is ​a tedious recurring activity that saps professors’ time<br>
+19年06月01日 12-39</p>
+<p>The full-time researchers are like professors, ​except that they can focus nearly all of their time on research since ​they don’t have teaching or advising duties<br>
+19年06月01日 12-38</p>
+<p>In e↵ect, Ph.D. students working with those young researchers were ​more easily able to publish and graduate, while Dawson’s students had ​a much harder time by comparison<br>
+19年06月01日 12-34</p>
+<p>36 The Ph.D. Grind ​So what was di↵erent here? In short, neither Cristi nor Dawson ​were truly hungry to publish. They had already published several Klee ​papers together, and a cross-checking paper coauthored with me would ​have been a “nice-to-have” but not mandatory follow-up publication.<br>
+Cristi was in his final year of Ph.D. and didn’t need to publish any more ​papers to graduate, and Dawson already had tenure, so he wasn’t in a ​rush to publish either. In contrast, Joel was a mid-stage Ph.D. student ​who was itching to publish the first paper of his dissertation, and Scott ​was an assistant professor who needed to publish prolifically to earn ​tenure. These two opposing experiences taught me the importance of ​deeply understanding the motivations and incentives of one’s pot<br>
+19年05月29日 12-27</p>
+<p>But back then, I was so burned-out and ​frustrated with the traditional pecking order of group-based research— ​putting new Ph.D. students through the meat grinder on the most ​unglamorous work—that I recoiled and went o↵ on my own<br>
+19年05月26日 12-35</p>
+<p>Learning to send succinct ​and effective professional ​emails has benefited my ​career tremendously<br>
+19年05月25日 12-12</p>
+<p>In contrast, Dawson was ​already-tenured and had ​only a mild side interest ​in this topic. The les­son here is that it’s very ​hard to publish on a ​topic if your advisor isn’t ​also obsessively thinking ​about it, since you’re di­rectly competing against ​other students whose ​advisors are obsessively ​thinking about<br>
+19年05月27日 01-01</p>
+<p>One of those students ​dropped out of the Ph.D.<br>
+program after over nine ​years in the department ​and zero publications, ​and the other one grad­uated after nine years ​and only one Klee-related ​publication. That pub­lication addressed the ​same search algorithm ​problem that I originally ​attempted. It took that ​student five years to pub­lish that paper, which let ​him graduate<br>
+---------------<br>
+及时止损。<br>
+体谅博士。<br>
+19年05月31日 12-36</p>
+<p>teaming up with Peter<br>
+---------------<br>
+和一个想发论文的老博士合作，nice<br>
+19年05月31日 12-39</p>
+<p>His publishing track record ​when he was a student was beyond prolific, which is how he got a ​top-tier faculty job at Stanford. However, since he was now busy with ​professor duties such as teaching, committee work, paper reviewing, ​and other errands, he could not devote the thousands of hours of ​focused labor necessary to turn this idea into a publishable paper.<br>
+Like all professors in labor-intensive research fields, Dawson needed ​students to execute on his visions<br>
+19年05月31日 12-43</p>
+<p>His publishing track record ​when he was a student was beyond prolific, which is how he got a ​top-tier faculty job at Stanford. However, since he was now busy with ​professor duties such as teaching, committee work, paper reviewing, ​and other errands, he could not devote the thousands of hours of ​focused labor necessary to turn this idea into a publishable paper.<br>
+Like all professors in labor-intensive research fields, Dawson needed ​students to execute on his visions<br>
+---------------<br>
+教授生活<br>
+19年05月31日 12-44</p>
+<p>danger. In ​fact, one of the purposes of tenure is to allow professors to take risks ​by attempting bolder project ideas<br>
+19年05月31日 12-47</p>
+<p>Fellowships are impor­tant not for the money, ​but rather for the free­dom from grant-related ​constraints<br>
+19年05月31日 12-47</p>
+<p>The professor might need to go through several rounds of student ​failures and dropouts before one set of students eventually succeeds<br>
+19年05月31日 12-48</p>
+<p>I can now see why this ​plan was doomed to fail.<br>
+No professor wants to ​join a random committee ​for a student they don’t ​even know, especially one ​in another department<br>
+19年06月02日 12-59</p>
+<p>plan was doomed to fail.<br>
+No professor wants to ​join a random committee ​for a student they don’t ​even know, especially one ​in another department<br>
+---------------<br>
+决定，依赖于现实<br>
+19年06月02日 01-00</p>
+<p>The nearly ten thou­sand hours I had spent doing many types of programming over the past ​decade—in classroom, hobby, research lab, and engineering internship ​settings—prepared me to endure the intensely intricate programming ​required to implement research ideas such as IncPy<br>
+19年06月02日 01-03</p>
+<p>ll always miss those ​purer times. In my cur­rent job, there’s no way I ​can block off three weeks ​just to code non-stop<br>
+19年06月03日 06-23</p>
+<p>In sum, the purpose of academic research is This is a very important ​point. It’s not our job ​as academics to ship ​polished products; that’s ​the role of companies.<br>
+This is a very important ​to produce validated ideas, not polished products<br>
+19年06月03日 06-26</p>
+<p>Google Tech Talks<br>
+19年06月03日 06-32</p>
+<p>, talks lead to more ​and more serendipity<br>
+19年06月03日 06-34</p>
+<p>The reviewers loved how we honestly ​acknowledged the failures of our evaluation and extracted valuable in­sights from them. Without a doubt, our paper would have never been ​accepted if not for Je↵’s rhetorical expertise<br>
+19年06月03日 06-42</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Work Loudly]]></title>
         <id>https://SamanthaWangdl.github.io/post/work-loudly/</id>
