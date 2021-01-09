@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-01-09T03:43:06.828Z</updated>
+    <updated>2021-01-09T03:59:04.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -11,35 +11,164 @@
     <icon>https://SamanthaWangdl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 润</rights>
     <entry>
+        <title type="html"><![CDATA[Work Loudly]]></title>
+        <id>https://SamanthaWangdl.github.io/post/work-loudly/</id>
+        <link href="https://SamanthaWangdl.github.io/post/work-loudly/">
+        </link>
+        <updated>2021-01-06T10:17:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何成为互联网活动家]]></title>
+        <id>https://SamanthaWangdl.github.io/post/ru-he-cheng-wei-hu-lian-wang-huo-dong-jia/</id>
+        <link href="https://SamanthaWangdl.github.io/post/ru-he-cheng-wei-hu-lian-wang-huo-dong-jia/">
+        </link>
+        <updated>2021-01-05T15:26:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UP主的创作使命让我更好认识世界]]></title>
+        <id>https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/</id>
+        <link href="https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/">
+        </link>
+        <updated>2021-01-05T15:16:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《媒体食谱》的肉糜]]></title>
+        <id>https://SamanthaWangdl.github.io/post/lesslessmei-ti-shi-pu-greatergreater-de-rou-mi/</id>
+        <link href="https://SamanthaWangdl.github.io/post/lesslessmei-ti-shi-pu-greatergreater-de-rou-mi/">
+        </link>
+        <updated>2021-01-05T15:16:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[献给千禧代的简体中文界互联网考古指南]]></title>
+        <id>https://SamanthaWangdl.github.io/post/xian-gei-qian-xi-dai-de-jian-ti-zhong-wen-jie-hu-lian-wang-kao-gu-zhi-nan/</id>
+        <link href="https://SamanthaWangdl.github.io/post/xian-gei-qian-xi-dai-de-jian-ti-zhong-wen-jie-hu-lian-wang-kao-gu-zhi-nan/">
+        </link>
+        <updated>2020-12-10T10:05:53.000Z</updated>
+        <content type="html"><![CDATA[<p>[a]toc<br>
+和互联网巨头一起成长起来的千禧代，不曾见过互联网的遗址。就如99年出生的我，可能和00后一样，是伴随着现在互联网巨头一起成长起来的，进入了<strong>信息茧房</strong>而不自知。</p>
+<p>还记得自己在初中的时候，班级里有了第一个同学使用知乎。谁能想到这六七年过去，知乎已经成为我的同龄人间最大的获取讯息的平台。而随着它成为简体中文界最大的知识寡头平台，这个平台的信噪比水准已经不复当初。</p>
+<p>但是随着我慢慢的成长，对于更加<strong>优质、开放、多元</strong>的信息的迫切需求让我对于无处不在的过滤气泡产生怀疑。从此我从中文互联网主流平台背井离乡，开始向互联网历史中的遗址进行考古，向互联网的角落里去进行挖掘。</p>
+<p>于是我想把自己的从互联网巨头平台出走经历写下来，分享给与我年龄相仿的、对信噪比较高的信息源有着同样需求的朋友们。因为篇幅限制，本文只讨论简体中文界的情况。</p>
+<figure data-type="image" tabindex="1"><img src="https://SamanthaWangdl.github.io/post-images/1610164417513.jpg" alt="" loading="lazy"></figure>
+<h2 id="豆瓣">豆瓣</h2>
+<p>大约在今年3月左右，我因为对知乎的情况绝望，所以搬迁到了豆瓣上，成为豆瓣的原住民，从此打开了我走向开放互联网的大门。豆瓣本身身的低调属性，在其他互联网域一直也没有怎么破圈，以至于很多人没有注意这里沉淀了多少精华内容，我在这里会给大家介绍下豆瓣的正确使用方法。</p>
+<p><strong>豆瓣最重要的消息源是来自你关注的人</strong>。可能豆瓣作为选书和选电影的网站的功能已经人尽皆知了，但是如果你没有进入豆瓣的社区就不会发现这里有多少真诚有趣的网民，几乎每天我在豆瓣都会发现从来不曾想象的人和对应的生活方式。</p>
+<p>经过10余年的沉淀，豆瓣留下了太多毫不过时且有用的深度内容，还有来自中文互联网田园时代的真诚网友，因此把豆瓣称为互联网的伟大遗址绝对不是过誉。（尽管它现在还是一个内部比较活跃的社区）</p>
+<p>所以如果你对豆瓣有了兴趣，希望从此进入友好真诚的互联网域，那么可以参考如下几个<strong>方式</strong>：</p>
+<ol>
+<li><strong>寻找感兴趣的人关注</strong>。豆瓣里有许许多多我称之为“互联网活动家”的前辈们，所以从关注他们开始，去看他们每天的动态和广播，去关注他们的关注列表。
+<ul>
+<li>Nova。同样在少数派活跃的Nova前辈，其生产力大爆炸系列让我在信息输入各方面都十分受用，也因此跟随前辈打开了telegram的新天地。</li>
+<li>穿堂风（https://www.douban.com/people/smile0802/）。穿堂风前辈可以说是豆瓣的互联网活动家了，不仅在做了400集的podcast笔记分享，还运作了最近在豆瓣很火的女性协助社区WomenOverseas。</li>
+<li>章鱼喵（https://www.douban.com/people/emptymalei/）脑洞很大的物理博士，火星移民运动的运作者。</li>
+</ul>
+</li>
+<li><strong>寻找感兴趣的书单和豆列</strong>。豆瓣沉淀了10多年的各种书单和豆列对于我十分有用，无论是我关注的前辈的豆列还是偶然看到的豆列，里面都有数不清的有用的资料。</li>
+<li><strong>阅读感兴趣的人的日记</strong>。关注一位豆邻后我第一件做的事情就是把对方的日记翻一遍，虽然日记名字叫作日记，但本质上还是长文章，如果是老豆瓣er了势必会在日记有多篇质量上乘的长文章。</li>
+<li><strong>看友邻的广播</strong>。如果在已经关注了一些感兴趣的豆邻之后，我们就可以快乐的在广播的时间线玩耍了，我一般会依据友邻的广播去选书或者产生对我自己发展的新的想法。</li>
+<li>看小组。豆瓣最近发展情况异常好的几个女性互助小组，强烈推荐给年轻的妹妹去看，比如{women in tech}和{women in academia}以及其各个其他行业的衍生小组。</li>
+</ol>
+<p>豆瓣之所以成为我现在最喜欢的互联网平台，一是因为它里面沉淀的真诚有趣的用户，而且大部分用户的生活阅历是比我多出许多了，所以在豆瓣里能看到成熟的网民的想法，二是因为豆瓣的历史足够悠久，因此积累下了10多年的文章和咨询，这让我在豆瓣搜东西的时候总有一种时间移民的感觉。</p>
+<h2 id="个人博客">个人博客</h2>
+<p>由于00后开始玩手机的时候，知乎已经足够成熟，所以我甚至我的同龄人没有接触过个人独立博客或者接触较少，也是情理之中的事情。但是随着我慢慢接触优秀历史悠久的个人独立博客，我发现独立博客的信噪比之高让我对它无法忽视。</p>
+<p>可能读理工科的同学对于CSDN之类的技术博客是非常熟悉的，但是我们在此不讨论纯技术博客。</p>
+<ul>
+<li>我正式非常认真阅读的第一个博客是<a href="http://www.ruanyifeng.com/">阮一峰老师的博客</a>, 一峰老师每周一期的科技爱好者周刊简单介绍科技新闻，新的小工具，优秀的英文博客文章，已经写了10年有余。记得我刚刚发现阮一峰老师的博客时，把他的文章从08年开始考古了一遍。</li>
+<li><a href="https://github.com/timqian/chinese-independent-blogs">chinese-independent-blog</a>是我在github上发现的一个汇聚简体中文界所有独立博客的一个项目，目前有100多个博客，基本目前我知道的著名独立博客都有收纳，这个项目还有一个对应的telegram群。</li>
+<li><a href="http://headsalon.org/">headsalon</a>是辉格前辈从上古时期开始一直运营到现在的思想类独立博客，包括关于经济学和社会学的讨论。我在偶然有幸误入这个互联网遗址，headsalon可以说是我毕生在互联网冲浪最令我震惊的几次发现之一。同样的思想类的博客还有<a href="http://www.mindmeters.com/">思维的乐趣</a>，但是在六七年前就已经停了。</li>
+</ul>
+<h2 id="小众社区">小众社区</h2>
+<p>还有一些已经发展成垂直社区的网站在这里我只是简单说一下，比如我们的母星少数派，此外36kr，人人都是产品经理，v2nex等都是如今分量非常大的社区了。</p>
+<p>在这里我要介绍一些我看到的真正的小众社区。</p>
+<ul>
+<li>利器。利器作为一个小众网站，现在已经渐渐往博客方向发展，但是服务器的网页端的确让我见识了各行各业的前辈的工作。其中利器的几个计划中对我帮助最大的是利器——城堡计划，一个数字人文的电子杂志，目前在语雀上可以看到<a href="https://www.yuque.com/gaohui-bdaa2/chengbao/cheng-bao-95-yue-liang-shi-ye-wan-de-shang-kou-ye">全集</a>。</li>
+<li>倪考梦。我在豆瓣认识的倪考梦前辈，因此发现了他公开的全部石墨笔记。</li>
+</ul>
+<h2 id="电报群">电报群</h2>
+<p>可能发生在telegram里的韩国丑闻是经过曝光才被大家知道的，但是电报群里有多少有趣的有用的开放信息源可能是大家不知道的。我是因为我的豆邻穿堂风的podcast分享telegram链接才发现了电报群这个新天地，后来又跟着关注了nova前辈的生产力大爆炸telegram，此外还有一些豆瓣上其他豆邻运作的电报群。在这里介绍一些我关注的电报群，更多优质的电报群可以看https://tingtalk.me/telegram/。</p>
+<ul>
+<li>穿堂风的<a href="https://t.me/daily_dose_podcast">Your Daily Dose of Podcast</a>每天推荐一集让人心潮澎湃、若有所思、打开新世界大门的播客节目，超过400集的优秀播客节目总结。</li>
+<li>nova的https://t.me/tms_ur_way TMS Discussion</li>
+<li><a href="https://t.me/tingtalk">庭说</a>第一时间获取博客的更新通知以及碎片化思考。</li>
+<li><a href="https://t.me/caozsay">caoz 的梦呓</a>打开互联网入口的曹老师</li>
+<li><a href="https://t.me/mactalk">卖桃者说</a>Mactalk，学极客时间时间时了解的池老师。</li>
+<li><a href="https://t.me/zhiwuzhi">值物志</a>分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧……</li>
+<li>我的豆瓣友邻Am Neumarkt 😱的https://t.me/amneumarkt</li>
+</ul>
+<h2 id="长毛象">长毛象</h2>
+<p><strong>Mastodon</strong>（又称<strong>长毛象</strong>或<strong>万象</strong>）是一个免费<a href="https://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90">开源</a>的<a href="https://zh.wikipedia.org/wiki/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96">去中心化</a>的<a href="https://zh.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E5%BC%8F%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF">分布式</a><a href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%8D%9A%E5%AE%A2">微博客</a><a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1">社交网络</a>。它的<a href="https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2">用户界面</a>和操作方式跟<a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%89%B9">推特</a>类似，但是整个网络并非由单一机构运作，却是由多个由不同营运者独立运作的<a href="https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8">服务器</a>以<a href="https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%AF">联邦</a>方式交换资料而组成的<a href="https://zh.wikipedia.org/wiki/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96">去中心化</a><a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1">社交网络</a>。</p>
+<p>在10月豆瓣的审查又变严后，身边的豆邻大批出走到了长毛象社区上。由于长毛象的去中心化机制，长毛象天生具有了开放的特性。长毛象的每一个站点叫做一个实例，目前中文网域最大的实例是<a href="https://cmx.im/">草莓县</a>。如果你是一个对于开放互联网感性趣的人可以先进入草莓县，在这里认识一些朋友，草莓县的讨论内容主要包括喵、汪、各种动物、社交、科技、编程及生活。如果在熟悉了长毛象的机制之后，你可以在选择更符合自己品味的实例落户。</p>
+<ul>
+<li>对于长毛象更加具体的使用方法可以参考https://sspai.com/post/46868。</li>
+<li>对于全宇宙的长毛象实例进行筛选的网站https://instances.social/list#lang=zh&amp;allowed=&amp;prohibited=&amp;min-users=&amp;max-users=</li>
+</ul>
+<h2 id="rss-newsletter">RSS&amp; newsletter</h2>
+<p>在刚刚上大学的时候，我偶然知道了RSS，一种订阅互联网各个信息孤岛上的消息的工具。在这之后不久又用邮箱订阅了阮一峰大大的邮箱订阅。可能对于千禧年左右的人，无论是rss还是邮箱订阅都已经经历过他们在互联网的黄金年代，因此可以称的是互联网遗址了。但是现在这种干净又可靠的私人定制式信息源成为了我的心头好。</p>
+<p>使用rss可能稍微有一些门槛，没有接触过的同学可以先尝试使用邮箱订阅。在这里推荐一些邮箱订阅给学生党们。</p>
+<ul>
+<li>大学、专业及 newsletter，国外的大学都会有自己的邮箱订阅，方便我们跟踪这个学校的动向。</li>
+<li>行业、协会及 newsletter，比如我做生医工的学术协会就会有自己的newsletter。</li>
+<li>一些非常好的杂志，我推荐——
+<ul>
+<li><em>Economist this Week</em></li>
+<li><em>The Atlantic Weekly</em></li>
+<li><em>Harvard Business Review</em></li>
+<li><em>MIT Tech Review</em></li>
+<li><em>Vault Career Guide</em></li>
+</ul>
+</li>
+<li>学术圈人士还可以通过 Google Scholar 去订阅自己关注的学者的新动态。</li>
+<li>此外一些优秀的独立中文邮箱订阅：
+<ul>
+<li>阮一峰</li>
+<li>湾区日报</li>
+</ul>
+</li>
+</ul>
+<p>关于这个邮箱订阅的话题我为大家选出了几篇非常有参考性的文章</p>
+<ul>
+<li>https://sspai.com/post/62935</li>
+<li>https://sspai.com/post/40470</li>
+</ul>
+<h2 id="信息源的整理">信息源的整理</h2>
+<p>notion整理</p>
+<p>找人</p>
+<p>互联网的LGBT，</p>
+<p>流动的时代</p>
+<p>互联网考古学</p>
+<p>缺少对互联网历史咨询的关注就使得我们的话题讨论反反复复</p>
+<p>有缘再会</p>
+<p>每一个博客，都是一座信息孤岛</p>
+<p>2020 年，独立博客会迎来“文艺复兴”吗？</p>
+<p>信息茧房</p>
+<p>独立电子杂志</p>
+<p>信息孤岛</p>
+<p>过滤泡沫</p>
+<p>人在哪里我就去哪里</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ph.D. Grind：及时止损，经常做pre]]></title>
         <id>https://SamanthaWangdl.github.io/post/phd-grindji-shi-zhi-sun-jing-chang-zuo-pre/</id>
         <link href="https://SamanthaWangdl.github.io/post/phd-grindji-shi-zhi-sun-jing-chang-zuo-pre/">
         </link>
-        <updated>2021-01-09T03:24:19.000Z</updated>
-        <content type="html"><![CDATA[<p>** 本文写于我大一2019年7月<br>
-<ul class="markdownIt-TOC">
-<li>
-<ul>
-<li>
-<ul>
+        <updated>2020-11-06T03:24:19.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
 <li><a href="#%E6%A6%82%E8%A6%81">概要</a></li>
 <li><a href="#%E4%BB%A4%E6%88%91%E6%84%9F%E8%A7%A6%E6%AF%94%E8%BE%83%E6%B7%B1%E7%9A%84%E5%87%A0%E7%82%B9">令我感触比较深的几点：</a></li>
 <li><a href="#conclusion">Conclusion</a></li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
 </p>
-<h3 id="概要">概要</h3>
+<h1 id="概要">概要</h1>
 <p>Ph.D. Grind讲述了作者从进入斯坦福经历6年计算机博士毕业的过程。其中经历从开始进入错的研究方向导致3年都没有发出文章，而后在许许多多其他的机会的引导下作者走上独立非常冷门的software optimize的方向，并在贵人的帮助下独立完成Incpy、CDE等5个项目，最终成功毕业的故事。</p>
 <p>对于作者帮助最大有以下几点：</p>
 <ul>
 <li>在workshop的presentation后遇到贵人</li>
 <li>在自己coldemail中找到重要贵人</li>
-<li>微软实习和谷歌实习都一定程度让他转型到后来的研究方向</li>
+<li>微软实习和谷歌实习都一定程度让他转型到后来的研究方向<br>
+<img src="https://SamanthaWangdl.github.io/post-images/1610164117324.jpg" alt="" loading="lazy"></li>
 </ul>
-<h3 id="令我感触比较深的几点">令我感触比较深的几点：</h3>
+<h1 id="令我感触比较深的几点">令我感触比较深的几点：</h1>
 <ul>
 <li>Creative ideas mean nothing without the great effort to bring them fruition：看过作者经历数千小时的磨难才将自己的项目的代码完成，而这个想法确实他在博一就想出过的，这让我意识到在science领域提出新观点的确重要，但是后期的优化和不断的改进才是把理论变成产品的关键。</li>
 <li>我也非常想真的做好一个产品，让更多的人喜欢上它。在作者将自己的项目放到网上，并建立社区来运营，甚至提供给其他领域的老师使用，这种成就感也让我心潮澎湃。相比作者说的其他那些只将学术成果放在象牙塔内，只留下想法而不打磨的事业，我还是比较喜欢做工程和做企业。</li>
@@ -55,9 +184,10 @@
 <li>Computer science research is lab our intensive,researchers often hire Ph.D students as summer interns to help implement their ideas.</li>
 <li>科技公司的研究部门因为没有教职和行政上的要求，反而是做学术更好的地方。</li>
 </ul>
-<h3 id="conclusion">Conclusion</h3>
+<h1 id="conclusion">Conclusion</h1>
 <p>看完这本Ph.d grind，真真正正体会到了phd的各种grind，作者一二年级的劳动苦力，三四年级的迷惑，五六年级命悬一线，基本没有展示出任何Ph.D.的attractive point，但是正如作者在文尾说的：Ph.D. program provides a safe environment for certain types of people to push themselves far beyond their mental limits and then emerge stronger as a result. 能突破个人极限这才是要选择读Ph.D.的意义。此外学到的两点，及时止损，经常做pre。</p>
-<p>###书摘<br>
+<figure data-type="image" tabindex="1"><img src="https://SamanthaWangdl.github.io/post-images/1610164148029.jpg" alt="" loading="lazy"></figure>
+<p>#书摘<br>
 This journey has taught me ​that creative ideas mean nothing without the extreme e↵ort to ​bring them to fruition<br>
 19年06月08日 04-16</p>
 <p>Ideas beget ideas<br>
@@ -187,141 +317,6 @@ This is a very important ​to produce validated ideas, not polished products<br
 19年06月03日 06-34</p>
 <p>The reviewers loved how we honestly ​acknowledged the failures of our evaluation and extracted valuable in­sights from them. Without a doubt, our paper would have never been ​accepted if not for Je↵’s rhetorical expertise<br>
 19年06月03日 06-42</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work Loudly]]></title>
-        <id>https://SamanthaWangdl.github.io/post/work-loudly/</id>
-        <link href="https://SamanthaWangdl.github.io/post/work-loudly/">
-        </link>
-        <updated>2021-01-06T10:17:54.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何成为互联网活动家]]></title>
-        <id>https://SamanthaWangdl.github.io/post/ru-he-cheng-wei-hu-lian-wang-huo-dong-jia/</id>
-        <link href="https://SamanthaWangdl.github.io/post/ru-he-cheng-wei-hu-lian-wang-huo-dong-jia/">
-        </link>
-        <updated>2021-01-05T15:26:35.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UP主的创作使命让我更好认识世界]]></title>
-        <id>https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/</id>
-        <link href="https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/">
-        </link>
-        <updated>2021-01-05T15:16:22.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《媒体食谱》的肉糜]]></title>
-        <id>https://SamanthaWangdl.github.io/post/lesslessmei-ti-shi-pu-greatergreater-de-rou-mi/</id>
-        <link href="https://SamanthaWangdl.github.io/post/lesslessmei-ti-shi-pu-greatergreater-de-rou-mi/">
-        </link>
-        <updated>2021-01-05T15:16:05.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[献给千禧代的简体中文界互联网考古指南]]></title>
-        <id>https://SamanthaWangdl.github.io/post/xian-gei-qian-xi-dai-de-jian-ti-zhong-wen-jie-hu-lian-wang-kao-gu-zhi-nan/</id>
-        <link href="https://SamanthaWangdl.github.io/post/xian-gei-qian-xi-dai-de-jian-ti-zhong-wen-jie-hu-lian-wang-kao-gu-zhi-nan/">
-        </link>
-        <updated>2020-12-29T10:05:53.000Z</updated>
-        <content type="html"><![CDATA[<p>和互联网巨头一起成长起来的千禧代，不曾见过互联网的遗址。就如99年出生的我，可能和00后一样，是伴随着现在互联网巨头一起成长起来的，进入了<strong>信息茧房</strong>而不自知。</p>
-<p>还记得自己在初中的时候，班级里有了第一个同学使用知乎。谁能想到这六七年过去，知乎已经成为我的同龄人间最大的获取讯息的平台。而随着它成为简体中文界最大的知识寡头平台，这个平台的信噪比水准已经不复当初。</p>
-<p>但是随着我慢慢的成长，对于更加<strong>优质、开放、多元</strong>的信息的迫切需求让我对于无处不在的过滤气泡产生怀疑。从此我从中文互联网主流平台背井离乡，开始向互联网历史中的遗址进行考古，向互联网的角落里去进行挖掘。</p>
-<p>于是我想把自己的从互联网巨头平台出走经历写下来，分享给与我年龄相仿的、对信噪比较高的信息源有着同样需求的朋友们。因为篇幅限制，本文只讨论简体中文界的情况。</p>
-<h2 id="豆瓣">豆瓣</h2>
-<p>大约在今年3月左右，我因为对知乎的情况绝望，所以搬迁到了豆瓣上，成为豆瓣的原住民，从此打开了我走向开放互联网的大门。豆瓣本身身的低调属性，在其他互联网域一直也没有怎么破圈，以至于很多人没有注意这里沉淀了多少精华内容，我在这里会给大家介绍下豆瓣的正确使用方法。</p>
-<p><strong>豆瓣最重要的消息源是来自你关注的人</strong>。可能豆瓣作为选书和选电影的网站的功能已经人尽皆知了，但是如果你没有进入豆瓣的社区就不会发现这里有多少真诚有趣的网民，几乎每天我在豆瓣都会发现从来不曾想象的人和对应的生活方式。</p>
-<p>经过10余年的沉淀，豆瓣留下了太多毫不过时且有用的深度内容，还有来自中文互联网田园时代的真诚网友，因此把豆瓣称为互联网的伟大遗址绝对不是过誉。（尽管它现在还是一个内部比较活跃的社区）</p>
-<p>所以如果你对豆瓣有了兴趣，希望从此进入友好真诚的互联网域，那么可以参考如下几个<strong>方式</strong>：</p>
-<ol>
-<li><strong>寻找感兴趣的人关注</strong>。豆瓣里有许许多多我称之为“互联网活动家”的前辈们，所以从关注他们开始，去看他们每天的动态和广播，去关注他们的关注列表。
-<ul>
-<li>Nova。同样在少数派活跃的Nova前辈，其生产力大爆炸系列让我在信息输入各方面都十分受用，也因此跟随前辈打开了telegram的新天地。</li>
-<li>穿堂风（https://www.douban.com/people/smile0802/）。穿堂风前辈可以说是豆瓣的互联网活动家了，不仅在做了400集的podcast笔记分享，还运作了最近在豆瓣很火的女性协助社区WomenOverseas。</li>
-<li>章鱼喵（https://www.douban.com/people/emptymalei/）脑洞很大的物理博士，火星移民运动的运作者。</li>
-</ul>
-</li>
-<li><strong>寻找感兴趣的书单和豆列</strong>。豆瓣沉淀了10多年的各种书单和豆列对于我十分有用，无论是我关注的前辈的豆列还是偶然看到的豆列，里面都有数不清的有用的资料。</li>
-<li><strong>阅读感兴趣的人的日记</strong>。关注一位豆邻后我第一件做的事情就是把对方的日记翻一遍，虽然日记名字叫作日记，但本质上还是长文章，如果是老豆瓣er了势必会在日记有多篇质量上乘的长文章。</li>
-<li><strong>看友邻的广播</strong>。如果在已经关注了一些感兴趣的豆邻之后，我们就可以快乐的在广播的时间线玩耍了，我一般会依据友邻的广播去选书或者产生对我自己发展的新的想法。</li>
-<li>看小组。豆瓣最近发展情况异常好的几个女性互助小组，强烈推荐给年轻的妹妹去看，比如{women in tech}和{women in academia}以及其各个其他行业的衍生小组。</li>
-</ol>
-<p>豆瓣之所以成为我现在最喜欢的互联网平台，一是因为它里面沉淀的真诚有趣的用户，而且大部分用户的生活阅历是比我多出许多了，所以在豆瓣里能看到成熟的网民的想法，二是因为豆瓣的历史足够悠久，因此积累下了10多年的文章和咨询，这让我在豆瓣搜东西的时候总有一种时间移民的感觉。</p>
-<h2 id="个人博客">个人博客</h2>
-<p>由于00后开始玩手机的时候，知乎已经足够成熟，所以我甚至我的同龄人没有接触过个人独立博客或者接触较少，也是情理之中的事情。但是随着我慢慢接触优秀历史悠久的个人独立博客，我发现独立博客的信噪比之高让我对它无法忽视。</p>
-<p>可能读理工科的同学对于CSDN之类的技术博客是非常熟悉的，但是我们在此不讨论纯技术博客。</p>
-<ul>
-<li>我正式非常认真阅读的第一个博客是阮一峰老师的博客（http://www.ruanyifeng.com/）一峰老师每周一期的科技爱好者周刊简单介绍科技新闻，新的小工具，优秀的英文博客文章，已经写了10年有余。记得我刚刚发现阮一峰老师的博客时，把他的文章从08年开始考古了一遍。</li>
-<li>chinese-independent-blog（https://github.com/timqian/chinese-independent-blogs）是我在github上发现的一个汇聚简体中文界所有独立博客的一个项目，目前有100多个博客，基本目前我知道的著名独立博客都有收纳，这个项目还有一个对应的telegram群。</li>
-<li>headsalon（http://headsalon.org/）是辉格前辈从上古时期开始一直运营到现在的思想类独立博客，包括关于经济学和社会学的讨论。我在偶然有幸误入这个互联网遗址，headsalon可以说是我毕生在互联网冲浪最令我震惊的几次发现之一。同样的思想类的博客还有思维的乐趣（http://www.mindmeters.com/），但是在六七年前就已经停了。</li>
-</ul>
-<h2 id="小众社区">小众社区</h2>
-<p>还有一些已经发展成垂直社区的网站在这里我只是简单说一下，比如我们的母星少数派，此外36kr，人人都是产品经理，v2nex等都是如今分量非常大的社区了。</p>
-<p>在这里我要介绍一些我看到的真正的小众社区。</p>
-<ul>
-<li>利器。利器作为一个小众网站，现在已经渐渐往博客方向发展，但是服务器的网页端的确让我见识了各行各业的前辈的工作。其中利器的几个计划中对我帮助最大的是利器——城堡计划，一个数字人文的电子杂志，目前在语雀上可以看到全集（https://www.yuque.com/gaohui-bdaa2/chengbao/cheng-bao-95-yue-liang-shi-ye-wan-de-shang-kou-ye）。</li>
-<li>倪考梦。我在豆瓣认识的倪考梦前辈，因此发现了他公开的全部石墨笔记。</li>
-</ul>
-<h2 id="电报群">电报群</h2>
-<p>可能发生在telegram里的韩国丑闻是经过曝光才被大家知道的，但是电报群里有多少有趣的有用的开放信息源可能是大家不知道的。我是因为我的豆邻穿堂风的podcast分享telegram链接才发现了电报群这个新天地，后来又跟着关注了nova前辈的生产力大爆炸telegram，此外还有一些豆瓣上其他豆邻运作的电报群。在这里介绍一些我关注的电报群，更多优质的电报群可以看https://tingtalk.me/telegram/。</p>
-<ul>
-<li>穿堂风的<a href="https://t.me/daily_dose_podcast">Your Daily Dose of Podcast</a>每天推荐一集让人心潮澎湃、若有所思、打开新世界大门的播客节目，超过400集的优秀播客节目总结。</li>
-<li>nova的https://t.me/tms_ur_way TMS Discussion</li>
-<li><a href="https://t.me/tingtalk">庭说</a>第一时间获取博客的更新通知以及碎片化思考。</li>
-<li><a href="https://t.me/caozsay">caoz 的梦呓</a>打开互联网入口的曹老师</li>
-<li><a href="https://t.me/mactalk">卖桃者说</a>Mactalk，学极客时间时间时了解的池老师。</li>
-<li><a href="https://t.me/zhiwuzhi">值物志</a>分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧……</li>
-<li>我的豆瓣友邻Am Neumarkt 😱的https://t.me/amneumarkt</li>
-</ul>
-<h2 id="长毛象">长毛象</h2>
-<p><strong>Mastodon</strong>（又称<strong>长毛象</strong>或<strong>万象</strong>）是一个免费<a href="https://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90">开源</a>的<a href="https://zh.wikipedia.org/wiki/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96">去中心化</a>的<a href="https://zh.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E5%BC%8F%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF">分布式</a><a href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%8D%9A%E5%AE%A2">微博客</a><a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1">社交网络</a>。它的<a href="https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2">用户界面</a>和操作方式跟<a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%89%B9">推特</a>类似，但是整个网络并非由单一机构运作，却是由多个由不同营运者独立运作的<a href="https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8">服务器</a>以<a href="https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%AF">联邦</a>方式交换资料而组成的<a href="https://zh.wikipedia.org/wiki/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96">去中心化</a><a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1">社交网络</a>。</p>
-<p>在10月豆瓣的审查又变严后，身边的豆邻大批出走到了长毛象社区上。由于长毛象的去中心化机制，长毛象天生具有了开放的特性。长毛象的每一个站点叫做一个实例，目前中文网域最大的实例是草莓县（ <a href="https://cmx.im/">cmx.im</a>）。如果你是一个对于开放互联网感性趣的人可以先进入草莓县，在这里认识一些朋友，草莓县的讨论内容主要包括喵、汪、各种动物、社交、科技、编程及生活。如果在熟悉了长毛象的机制之后，你可以在选择更符合自己品味的实例落户。</p>
-<ul>
-<li>对于长毛象更加具体的使用方法可以参考https://sspai.com/post/46868。</li>
-<li>对于全宇宙的长毛象实例进行筛选的网站https://instances.social/list#lang=zh&amp;allowed=&amp;prohibited=&amp;min-users=&amp;max-users=</li>
-</ul>
-<h2 id="rss-newsletter">RSS&amp; newsletter</h2>
-<p>在刚刚上大学的时候，我偶然知道了RSS，一种订阅互联网各个信息孤岛上的消息的工具。在这之后不久又用邮箱订阅了阮一峰大大的邮箱订阅。可能对于千禧年左右的人，无论是rss还是邮箱订阅都已经经历过他们在互联网的黄金年代，因此可以称的是互联网遗址了。但是现在这种干净又可靠的私人定制式信息源成为了我的心头好。</p>
-<p>使用rss可能稍微有一些门槛，没有接触过的同学可以先尝试使用邮箱订阅。在这里推荐一些邮箱订阅给学生党们。</p>
-<ul>
-<li>大学、专业及 newsletter，国外的大学都会有自己的邮箱订阅，方便我们跟踪这个学校的动向。</li>
-<li>行业、协会及 newsletter，比如我做生医工的学术协会就会有自己的newsletter。</li>
-<li>一些非常好的杂志，我推荐——
-<ul>
-<li><em>Economist this Week</em></li>
-<li><em>The Atlantic Weekly</em></li>
-<li><em>Harvard Business Review</em></li>
-<li><em>MIT Tech Review</em></li>
-<li><em>Vault Career Guide</em></li>
-</ul>
-</li>
-<li>学术圈人士还可以通过 Google Scholar 去订阅自己关注的学者的新动态。</li>
-<li>此外一些优秀的独立中文邮箱订阅：
-<ul>
-<li>阮一峰</li>
-<li>湾区日报</li>
-</ul>
-</li>
-</ul>
-<p>关于这个邮箱订阅的话题我为大家选出了几篇非常有参考性的文章</p>
-<ul>
-<li>https://sspai.com/post/62935</li>
-<li>https://sspai.com/post/40470</li>
-</ul>
-<h2 id="信息源的整理">信息源的整理</h2>
-<p>notion整理</p>
-<p>找人</p>
-<p>互联网的LGBT，</p>
-<p>流动的时代</p>
-<p>互联网考古学</p>
-<p>缺少对互联网历史咨询的关注就使得我们的话题讨论反反复复</p>
-<p>有缘再会</p>
-<p>每一个博客，都是一座信息孤岛</p>
-<p>2020 年，独立博客会迎来“文艺复兴”吗？</p>
-<p>信息茧房</p>
-<p>独立电子杂志</p>
-<p>信息孤岛</p>
-<p>过滤泡沫</p>
-<p>人在哪里我就去哪里</p>
 ]]></content>
     </entry>
     <entry>
