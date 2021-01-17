@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-01-09T04:19:11.843Z</updated>
+    <updated>2021-01-17T08:39:19.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://SamanthaWangdl.github.io/images/avatar.png</logo>
     <icon>https://SamanthaWangdl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 润</rights>
+    <entry>
+        <title type="html"><![CDATA[名校装逼指南]]></title>
+        <id>https://SamanthaWangdl.github.io/post/ming-xiao-zhuang-bi-zhi-nan/</id>
+        <link href="https://SamanthaWangdl.github.io/post/ming-xiao-zhuang-bi-zhi-nan/">
+        </link>
+        <updated>2021-01-17T01:59:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[花总的装腔指南的食糜]]></title>
+        <id>https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/</id>
+        <link href="https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/">
+        </link>
+        <updated>2021-01-17T01:44:25.000Z</updated>
+        <content type="html"><![CDATA[<p>我是在方老师的新闻实验室里看到花总的采访的，才了解到这位在我还是初中生时就叱咤中国博客圈的花总，真是可惜自己生不逢时，没有赶上花总红火的时候，只能默默考古花总的装腔指南然后在这里记录一些食糜。</p>
+<p>http://huazong.blog.caixin.com/archives/55333</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how to be independent]]></title>
+        <id>https://SamanthaWangdl.github.io/post/how-to-be-independent/</id>
+        <link href="https://SamanthaWangdl.github.io/post/how-to-be-independent/">
+        </link>
+        <updated>2021-01-14T16:55:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Work Loudly]]></title>
         <id>https://SamanthaWangdl.github.io/post/work-loudly/</id>
@@ -362,38 +386,6 @@ This is a very important ​to produce validated ideas, not polished products<br
 <figure data-type="image" tabindex="3"><img src="https://SamanthaWangdl.github.io/post-images/1610165336838.jpg" alt="" loading="lazy"></figure>
 <p>说实话 ，我在来新加坡这趟前就已经规划好自己未来一定要出国读博士，非常羡慕那些在海外有名校光环的同学，现在想来简直是无知的可笑，出国读书的光鲜可能是只有国内的人才能看到，自己在外究竟生活的怎么样，到底收获多少只有自己回味过来才清醒。自己原本不了解就盲目崇拜的心理就是在无知状态下被光鲜的国外生活所洗脑的。这遭做了新加坡的文化难民才体会出海外求学的苦涩。但是这些困难也不是不可克服的，因为我在新加坡待的时间短，适应的还不够所以一开始受到的刺激比较大，但是现在已经皮糙肉厚，无所谓丢不丢人，能谦虚的学习才是应该持有的海外求学态度。</p>
 <figure data-type="image" tabindex="4"><img src="https://SamanthaWangdl.github.io/post-images/1610165348824.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://SamanthaWangdl.github.io/post/hello-gridea/</id>
-        <link href="https://SamanthaWangdl.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
