@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-01-17T09:25:08.033Z</updated>
+    <updated>2021-01-17T10:21:28.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -16,6 +16,16 @@
         <link href="https://SamanthaWangdl.github.io/post/2020-fei-xu-gou-chang-wen-run-bang/">
         </link>
         <updated>2021-01-17T09:04:01.000Z</updated>
+        <content type="html"><![CDATA[<p>本文整理了我在2020年读过的对我产生重大影响的非虚构类文章们，以证明我每天在网上冲浪的时间没有白费。</p>
+<ol>
+<li><a href="https://sspai.com/post/63377">学生党领英漫游指南The LinkedIn guide to hitchhiker</a> 没错，至今为止我今年在网络上看过的写的比我好的文章有太多，但是我仍然觉得自己领英这篇写的非常好且对学生们很有价值。领英对于年轻学生的作用在中文界绝对是被低估了，我们学生每天都在说内卷，如果去领英好好看看，就会发现自己的前辈们竟然可以发展出那么多我想都没想到的职业方向，大家为什么都非要吊死在一棵树上呢？</li>
+<li><a href="https://theinitium.com/article/20180910-mainland-censorship-journalist-in-china/">全面審查時代：中國媒體人正在經歷什麼？</a>说实话，我从来没有想过censor这个问题对我有多大的影响，因为我貌似想看什么就能出去看，貌似信息来源也比较多元化，那直到我第一次前两个月写稿被毙，我意识到原来我认为原创的想法其实是因为前辈写出来都被毙了，其次我就想在这种潜移默化censor体系下到底有多少前辈们的想法我是不知道的。总之这件事给了我非常大的触动，以至于我还专门看来censored的那本书。经过一段时间的思考，我现在的想法是，戴着镣铐也要跳舞吗，反正我现在还能说话，那就肩负起一个公民在大众传播里的责任感，把话说的艺术点。</li>
+<li>设计</li>
+<li>消费降级</li>
+<li>naval的</li>
+<li>庭说老师的telegram那篇</li>
+</ol>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[本科生如何在实验室混饭吃指南]]></title>
@@ -24,7 +34,7 @@
         </link>
         <updated>2021-01-17T08:44:07.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<p>本文记录下我从进入大学开始在各个实验室打杂，和各位学长学姐嘘寒问暖总结出来的经验，分享跟同样作为广大实验室最没有地位的本科生。</p>
+<p>本文记录下我从进入大学开始在各个实验室打杂，和各位学长学姐嘘寒问暖总结出来的经验，分享给实验室最没有地位的广大本科生。</p>
 <ol>
 <li>
 <p>paperwithcode用来搜论文的匹配代码https://paperswithcode.com/。paperwithcode是我用来查论文代码的必经网站，因为自己动手复现论文太浪费时间，所以先找paperwithcode，没有的话再去问作者要（没错就是直接写邮件问作者要）。</p>
@@ -121,11 +131,19 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[名校装逼指南]]></title>
+        <title type="html"><![CDATA[理工科大佬装逼指南]]></title>
         <id>https://SamanthaWangdl.github.io/post/ming-xiao-zhuang-bi-zhi-nan/</id>
         <link href="https://SamanthaWangdl.github.io/post/ming-xiao-zhuang-bi-zhi-nan/">
         </link>
         <updated>2021-01-17T01:59:06.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>作为国内top大学的理工科大佬，必然要声称自己是从幼儿园开始参加ACM竞赛等世界性竞赛的天才。</li>
+<li>上课时，必然要表现出对无良教师的蔑视，以及为普通学生前程担忧的复杂眼神。提示可以利用激情敲打键盘的声响增强自己在课堂上大佬生人勿近的气势。</li>
+<li>当在公共场合受到挑衅时，请熟练运用“神”，“膜拜”，“巨”，“佬”等十分容易产生语义漂流的口水词进行不必要寒暄，比如在别人刺探你project完成什么程度时，可以尝试使用“卧槽！！！xx佬已经写到xxxl了，我裂/跪了”带动社交舆论压力对对方产生打击。</li>
+<li>寒假时必然要申请留校，因为身负重任的大佬是不能有假期的，实验室的师兄师姐还等着去打杂。</li>
+<li></li>
+</ol>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[花总的装腔指南的食糜]]></title>
