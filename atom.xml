@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-01-17T10:21:28.979Z</updated>
+    <updated>2021-02-01T09:10:17.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -10,6 +10,82 @@
     <logo>https://SamanthaWangdl.github.io/images/avatar.png</logo>
     <icon>https://SamanthaWangdl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 润</rights>
+    <entry>
+        <title type="html"><![CDATA[如何做好可视化]]></title>
+        <id>https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/</id>
+        <link href="https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/">
+        </link>
+        <updated>2021-01-28T03:51:05.000Z</updated>
+        <content type="html"><![CDATA[<p>https://blog.csdn.net/EnlightenAcademy/article/details/101298545</p>
+<p>https://blog.csdn.net/ASIA_kobe/article/details/50244509</p>
+<p>http://blog.xiqiao.info/category/visualization/</p>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shriAZ7muDrSGgujd?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[适合骑墙的学术方向]]></title>
+        <id>https://SamanthaWangdl.github.io/post/gua-he-qi-qiang-de-xue-zhu-fang-xiang/</id>
+        <link href="https://SamanthaWangdl.github.io/post/gua-he-qi-qiang-de-xue-zhu-fang-xiang/">
+        </link>
+        <updated>2021-01-27T15:03:27.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何找轮子]]></title>
+        <id>https://SamanthaWangdl.github.io/post/ru-he-zhao-lun-zi/</id>
+        <link href="https://SamanthaWangdl.github.io/post/ru-he-zhao-lun-zi/">
+        </link>
+        <updated>2021-01-24T08:44:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[satire]]></title>
+        <id>https://SamanthaWangdl.github.io/post/satire/</id>
+        <link href="https://SamanthaWangdl.github.io/post/satire/">
+        </link>
+        <updated>2021-01-18T11:42:14.000Z</updated>
+        <content type="html"><![CDATA[<p>洋葱报</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论如何立互联网人设]]></title>
+        <id>https://SamanthaWangdl.github.io/post/lun-ru-he-li-hu-lian-wang-ren-she/</id>
+        <link href="https://SamanthaWangdl.github.io/post/lun-ru-he-li-hu-lian-wang-ren-she/">
+        </link>
+        <updated>2021-01-18T09:20:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看了百来个博客，什么样的是值得人收藏的]]></title>
+        <id>https://SamanthaWangdl.github.io/post/kan-liao-bai-lai-ge-bo-ke-shi-me-yang-de-shi-zhi-de-ren-shou-cang-de/</id>
+        <link href="https://SamanthaWangdl.github.io/post/kan-liao-bai-lai-ge-bo-ke-shi-me-yang-de-shi-zhi-de-ren-shou-cang-de/">
+        </link>
+        <updated>2021-01-18T08:08:37.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>首页清楚的展示所有博主的信息</li>
+<li>清楚的展示博客的内容</li>
+<li>每篇文章不能是流水帐，一定是经过打磨后可以为人带来价值的</li>
+<li>响应快速</li>
+<li>有强烈风格和风向</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Am I Following on Earth？]]></title>
+        <id>https://SamanthaWangdl.github.io/post/who-am-i-following-on-earth/</id>
+        <link href="https://SamanthaWangdl.github.io/post/who-am-i-following-on-earth/">
+        </link>
+        <updated>2021-01-18T01:51:01.000Z</updated>
+        <content type="html"><![CDATA[<p>2020由于疫情，我深度使用了豆瓣；由于深度使用豆瓣，导致我深入使用telegram，slack，长毛象等等等。此外因为我做up主后经常有选题想法，有了想法就要去查，导致我对全球大部分媒体新闻，社交网络工具都有所涉猎。以至于我每天在写稿子的时候，需要在各个网站应用里翻找，到底是谁说了我想要的那句话？<br>
+因此我决定把今年对我影响较大的互联网活动家们都记录下来，不仅帮我自己get together，也是给有幸看到这篇文章的朋友分享信息泥石流里的一些清流。</p>
+<h2 id="方可成博士">方可成博士</h2>
+<h2 id="端传媒">端传媒</h2>
+<h2 id="阮一峰老师">阮一峰老师</h2>
+<h2 id="choki">choki</h2>
+<h2 id="穿堂风">穿堂风</h2>
+<h2 id="利器">利器</h2>
+<h2 id="陈一佳">陈一佳</h2>
+<h2 id="花总">花总</h2>
+<h2 id=""></h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020非虚构长文润榜]]></title>
         <id>https://SamanthaWangdl.github.io/post/2020-fei-xu-gou-chang-wen-run-bang/</id>
@@ -23,7 +99,7 @@
 <li>设计</li>
 <li>消费降级</li>
 <li>naval的</li>
-<li>庭说老师的telegram那篇</li>
+<li>庭说老师的telegram那篇https://tingtalk.me/telegram/</li>
 </ol>
 ]]></content>
     </entry>
@@ -126,8 +202,16 @@
 <li>
 <p>关于博士之后如何转行的重要参考消息。Next Scientist ,就像他们自己介绍的一样，“Helping PhD Students Stay Motivated, Graduate And Then Find A Job In Industry”，用一整个网站的内容解答你可能有的所有疑问。THE FUTURE OF THE PHD (Specials in Nature, 2011) Nature News Special : Future of the PhD, 我非常推荐阅读Nature上关于PhD Career的多次探讨。Preparing for life after the PhD: re-train your brain-PhD Talk，整个博客分享了作者自己的读博生涯，这篇文章尤其值得一看。Careers After Biological Sciences, 都说专业带上生物，工作就更难找。我是不太赞同，事实上，生物博士可能是为数不多被咨询和金融界认可的博士学位了。带着跨界的心去看这个问题，会有很多新的认识。这个网站很赞，汇集了不同选择的生物博士的分享，非常推荐生物博士们看一看。</p>
 </li>
+<li>
+<p>https://bookdown.org/yufree/sciguide/intro.html</p>
+</li>
+<li>
+<p>videolecture.net</p>
+</li>
 </ol>
-<p>待更还有好多要写的····</p>
+<p>待更还有好多要写的····<br>
+https://www.businessenglishresources.com/learn-english-for-business/teachers-section/skill-based-lessons/writing-polite-emails-indirect-polite/</p>
+<p>https://dingzeyu.li/blog/phd-must-read-list/</p>
 ]]></content>
     </entry>
     <entry>
@@ -144,60 +228,5 @@
 <li></li>
 </ol>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花总的装腔指南的食糜]]></title>
-        <id>https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/</id>
-        <link href="https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/">
-        </link>
-        <updated>2021-01-17T01:44:25.000Z</updated>
-        <content type="html"><![CDATA[<p>我是在方老师的新闻实验室里看到花总的采访的，才了解到这位在我还是初中生时就叱咤中国博客圈的花总，真是可惜自己生不逢时，没有赶上花总红火的时候，只能默默考古花总的装腔指南然后在这里记录一些食糜。</p>
-<p>http://huazong.blog.caixin.com/archives/55333</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做Up主的100天我所学到的技艺]]></title>
-        <id>https://SamanthaWangdl.github.io/post/zuo-up-zhu-de-100-tian-wo-suo-xue-dao-de-ji-yi/</id>
-        <link href="https://SamanthaWangdl.github.io/post/zuo-up-zhu-de-100-tian-wo-suo-xue-dao-de-ji-yi/">
-        </link>
-        <updated>2021-01-15T13:03:28.000Z</updated>
-        <content type="html"><![CDATA[<p>我大概从今年7月份，由于大连一<br>
-<img src="https://SamanthaWangdl.github.io/post-images/1610717710469.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[how to be independent]]></title>
-        <id>https://SamanthaWangdl.github.io/post/how-to-be-independent/</id>
-        <link href="https://SamanthaWangdl.github.io/post/how-to-be-independent/">
-        </link>
-        <updated>2021-01-14T16:55:12.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work Loudly]]></title>
-        <id>https://SamanthaWangdl.github.io/post/work-loudly/</id>
-        <link href="https://SamanthaWangdl.github.io/post/work-loudly/">
-        </link>
-        <updated>2021-01-06T10:17:54.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何成为互联网活动家]]></title>
-        <id>https://SamanthaWangdl.github.io/post/ru-he-cheng-wei-hu-lian-wang-huo-dong-jia/</id>
-        <link href="https://SamanthaWangdl.github.io/post/ru-he-cheng-wei-hu-lian-wang-huo-dong-jia/">
-        </link>
-        <updated>2021-01-05T15:26:35.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UP主的创作使命让我更好认识世界]]></title>
-        <id>https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/</id>
-        <link href="https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/">
-        </link>
-        <updated>2021-01-05T15:16:22.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《媒体食谱》的肉糜]]></title>
-        <id>https://SamanthaWangdl.github.io/post/lesslessmei-ti-shi-pu-greatergreater-de-rou-mi/</id>
-        <link href="https://SamanthaWangdl.github.io/post/lesslessmei-ti-shi-pu-greatergreater-de-rou-mi/">
-        </link>
-        <updated>2021-01-05T15:16:05.000Z</updated>
     </entry>
 </feed>
