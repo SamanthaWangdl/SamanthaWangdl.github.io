@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-02-01T09:12:35.232Z</updated>
+    <updated>2021-02-01T09:15:54.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -10,18 +10,6 @@
     <logo>https://SamanthaWangdl.github.io/images/avatar.png</logo>
     <icon>https://SamanthaWangdl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 润</rights>
-    <entry>
-        <title type="html"><![CDATA[如何做好可视化]]></title>
-        <id>https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/</id>
-        <link href="https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/">
-        </link>
-        <updated>2021-01-28T03:51:05.000Z</updated>
-        <content type="html"><![CDATA[<p>https://blog.csdn.net/EnlightenAcademy/article/details/101298545</p>
-<p>https://blog.csdn.net/ASIA_kobe/article/details/50244509</p>
-<p>http://blog.xiqiao.info/category/visualization/</p>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shriAZ7muDrSGgujd?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[适合骑墙的学术方向]]></title>
         <id>https://SamanthaWangdl.github.io/post/gua-he-qi-qiang-de-xue-zhu-fang-xiang/</id>
@@ -227,6 +215,16 @@ https://www.businessenglishresources.com/learn-english-for-business/teachers-sec
 <li>寒假时必然要申请留校，因为身负重任的大佬是不能有假期的，实验室的师兄师姐还等着去打杂。</li>
 <li></li>
 </ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[花总的装腔指南的食糜]]></title>
+        <id>https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/</id>
+        <link href="https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/">
+        </link>
+        <updated>2021-01-17T01:44:25.000Z</updated>
+        <content type="html"><![CDATA[<p>我是在方老师的新闻实验室里看到花总的采访的，才了解到这位在我还是初中生时就叱咤中国博客圈的花总，真是可惜自己生不逢时，没有赶上花总红火的时候，只能默默考古花总的装腔指南然后在这里记录一些食糜。</p>
+<p>http://huazong.blog.caixin.com/archives/55333</p>
 ]]></content>
     </entry>
 </feed>
