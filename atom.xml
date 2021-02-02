@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-02-02T15:00:13.253Z</updated>
+    <updated>2021-02-02T15:01:12.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://SamanthaWangdl.github.io/images/avatar.png</logo>
     <icon>https://SamanthaWangdl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 润</rights>
+    <entry>
+        <title type="html"><![CDATA[如何做好可视化]]></title>
+        <id>https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/</id>
+        <link href="https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/">
+        </link>
+        <updated>2021-01-28T03:51:05.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>https://blog.csdn.net/EnlightenAcademy/article/details/101298545</p>
+<p>https://blog.csdn.net/ASIA_kobe/article/details/50244509</p>
+<p>http://blog.xiqiao.info/category/visualization/</p>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shriAZ7muDrSGgujd?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<p>https://app.rawgraphs.io/<br>
+《写给大家看的设计书》一书中，作者用通俗易懂的方式给出了几条设计的基本原则，这些原则完全可以直接用在数据可视化中的设计中：<br>
+亲密性（将有关联的信息物理上放在一起，而关联不大的则通过留白等手段分开）<br>
+对齐（将元素通过水平，垂直方向对齐，方便视觉识别）<br>
+重复（重复使用某一模式，比如标题1的字体颜色，标题2的字体颜色等，保持重复且一致）<br>
+对比（通过强烈的对比将不同的信息区分开）</p>
+<iframe class="airtable-embed" src="https://www.google.com/search?q=how+to+embed+javascript+in+blog&oq=how+to+embed+javascript+in+blog&aqs=chrome..69i57j0j0i30j0i30i395l7.14936j1j7&sourceid=chrome&ie=UTF-8" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[适合骑墙的学术方向]]></title>
         <id>https://SamanthaWangdl.github.io/post/gua-he-qi-qiang-de-xue-zhu-fang-xiang/</id>
@@ -215,16 +234,6 @@ https://www.businessenglishresources.com/learn-english-for-business/teachers-sec
 <li>寒假时必然要申请留校，因为身负重任的大佬是不能有假期的，实验室的师兄师姐还等着去打杂。</li>
 <li></li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花总的装腔指南的食糜]]></title>
-        <id>https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/</id>
-        <link href="https://SamanthaWangdl.github.io/post/hua-zong-de-zhuang-qiang-zhi-nan-de-shi-mi/">
-        </link>
-        <updated>2021-01-17T01:44:25.000Z</updated>
-        <content type="html"><![CDATA[<p>我是在方老师的新闻实验室里看到花总的采访的，才了解到这位在我还是初中生时就叱咤中国博客圈的花总，真是可惜自己生不逢时，没有赶上花总红火的时候，只能默默考古花总的装腔指南然后在这里记录一些食糜。</p>
-<p>http://huazong.blog.caixin.com/archives/55333</p>
 ]]></content>
     </entry>
 </feed>
