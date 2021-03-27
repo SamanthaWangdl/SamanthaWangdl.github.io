@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SamanthaWangdl.github.io</id>
     <title>润</title>
-    <updated>2021-02-02T15:11:27.364Z</updated>
+    <updated>2021-03-27T13:36:12.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SamanthaWangdl.github.io"/>
     <link rel="self" href="https://SamanthaWangdl.github.io/atom.xml"/>
@@ -10,106 +10,6 @@
     <logo>https://SamanthaWangdl.github.io/images/avatar.png</logo>
     <icon>https://SamanthaWangdl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 润</rights>
-    <entry>
-        <title type="html"><![CDATA[如何做好可视化]]></title>
-        <id>https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/</id>
-        <link href="https://SamanthaWangdl.github.io/post/ru-he-zuo-hao-ke-shi-hua/">
-        </link>
-        <updated>2021-01-28T03:51:05.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>https://blog.csdn.net/EnlightenAcademy/article/details/101298545</p>
-<p>https://blog.csdn.net/ASIA_kobe/article/details/50244509</p>
-<p>http://blog.xiqiao.info/category/visualization/</p>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shriAZ7muDrSGgujd?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-<p>https://app.rawgraphs.io/<br>
-《写给大家看的设计书》一书中，作者用通俗易懂的方式给出了几条设计的基本原则，这些原则完全可以直接用在数据可视化中的设计中：<br>
-亲密性（将有关联的信息物理上放在一起，而关联不大的则通过留白等手段分开）<br>
-对齐（将元素通过水平，垂直方向对齐，方便视觉识别）<br>
-重复（重复使用某一模式，比如标题1的字体颜色，标题2的字体颜色等，保持重复且一致）<br>
-对比（通过强烈的对比将不同的信息区分开）</p>
-<iframe class="airtable-embed" src="https://editor.p5js.org/SamanthaWangdl/collections/R_3krPPRp" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[适合骑墙的学术方向]]></title>
-        <id>https://SamanthaWangdl.github.io/post/gua-he-qi-qiang-de-xue-zhu-fang-xiang/</id>
-        <link href="https://SamanthaWangdl.github.io/post/gua-he-qi-qiang-de-xue-zhu-fang-xiang/">
-        </link>
-        <updated>2021-01-27T15:03:27.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找轮子]]></title>
-        <id>https://SamanthaWangdl.github.io/post/ru-he-zhao-lun-zi/</id>
-        <link href="https://SamanthaWangdl.github.io/post/ru-he-zhao-lun-zi/">
-        </link>
-        <updated>2021-01-24T08:44:25.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[satire]]></title>
-        <id>https://SamanthaWangdl.github.io/post/satire/</id>
-        <link href="https://SamanthaWangdl.github.io/post/satire/">
-        </link>
-        <updated>2021-01-18T11:42:14.000Z</updated>
-        <content type="html"><![CDATA[<p>洋葱报</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[论如何立互联网人设]]></title>
-        <id>https://SamanthaWangdl.github.io/post/lun-ru-he-li-hu-lian-wang-ren-she/</id>
-        <link href="https://SamanthaWangdl.github.io/post/lun-ru-he-li-hu-lian-wang-ren-she/">
-        </link>
-        <updated>2021-01-18T09:20:34.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看了百来个博客，什么样的是值得人收藏的]]></title>
-        <id>https://SamanthaWangdl.github.io/post/kan-liao-bai-lai-ge-bo-ke-shi-me-yang-de-shi-zhi-de-ren-shou-cang-de/</id>
-        <link href="https://SamanthaWangdl.github.io/post/kan-liao-bai-lai-ge-bo-ke-shi-me-yang-de-shi-zhi-de-ren-shou-cang-de/">
-        </link>
-        <updated>2021-01-18T08:08:37.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>首页清楚的展示所有博主的信息</li>
-<li>清楚的展示博客的内容</li>
-<li>每篇文章不能是流水帐，一定是经过打磨后可以为人带来价值的</li>
-<li>响应快速</li>
-<li>有强烈风格和风向</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Am I Following on Earth？]]></title>
-        <id>https://SamanthaWangdl.github.io/post/who-am-i-following-on-earth/</id>
-        <link href="https://SamanthaWangdl.github.io/post/who-am-i-following-on-earth/">
-        </link>
-        <updated>2021-01-18T01:51:01.000Z</updated>
-        <content type="html"><![CDATA[<p>2020由于疫情，我深度使用了豆瓣；由于深度使用豆瓣，导致我深入使用telegram，slack，长毛象等等等。此外因为我做up主后经常有选题想法，有了想法就要去查，导致我对全球大部分媒体新闻，社交网络工具都有所涉猎。以至于我每天在写稿子的时候，需要在各个网站应用里翻找，到底是谁说了我想要的那句话？<br>
-因此我决定把今年对我影响较大的互联网活动家们都记录下来，不仅帮我自己get together，也是给有幸看到这篇文章的朋友分享信息泥石流里的一些清流。</p>
-<h2 id="方可成博士">方可成博士</h2>
-<h2 id="端传媒">端传媒</h2>
-<h2 id="阮一峰老师">阮一峰老师</h2>
-<h2 id="choki">choki</h2>
-<h2 id="穿堂风">穿堂风</h2>
-<h2 id="利器">利器</h2>
-<h2 id="陈一佳">陈一佳</h2>
-<h2 id="花总">花总</h2>
-<h2 id=""></h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020非虚构长文润榜]]></title>
-        <id>https://SamanthaWangdl.github.io/post/2020-fei-xu-gou-chang-wen-run-bang/</id>
-        <link href="https://SamanthaWangdl.github.io/post/2020-fei-xu-gou-chang-wen-run-bang/">
-        </link>
-        <updated>2021-01-17T09:04:01.000Z</updated>
-        <content type="html"><![CDATA[<p>本文整理了我在2020年读过的对我产生重大影响的非虚构类文章们，以证明我每天在网上冲浪的时间没有白费。</p>
-<ol>
-<li><a href="https://sspai.com/post/63377">学生党领英漫游指南The LinkedIn guide to hitchhiker</a> 没错，至今为止我今年在网络上看过的写的比我好的文章有太多，但是我仍然觉得自己领英这篇写的非常好且对学生们很有价值。领英对于年轻学生的作用在中文界绝对是被低估了，我们学生每天都在说内卷，如果去领英好好看看，就会发现自己的前辈们竟然可以发展出那么多我想都没想到的职业方向，大家为什么都非要吊死在一棵树上呢？</li>
-<li><a href="https://theinitium.com/article/20180910-mainland-censorship-journalist-in-china/">全面審查時代：中國媒體人正在經歷什麼？</a>说实话，我从来没有想过censor这个问题对我有多大的影响，因为我貌似想看什么就能出去看，貌似信息来源也比较多元化，那直到我第一次前两个月写稿被毙，我意识到原来我认为原创的想法其实是因为前辈写出来都被毙了，其次我就想在这种潜移默化censor体系下到底有多少前辈们的想法我是不知道的。总之这件事给了我非常大的触动，以至于我还专门看来censored的那本书。经过一段时间的思考，我现在的想法是，戴着镣铐也要跳舞吗，反正我现在还能说话，那就肩负起一个公民在大众传播里的责任感，把话说的艺术点。</li>
-<li>设计</li>
-<li>消费降级</li>
-<li>naval的</li>
-<li>庭说老师的telegram那篇https://tingtalk.me/telegram/</li>
-</ol>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[本科生如何在实验室混饭吃指南]]></title>
         <id>https://SamanthaWangdl.github.io/post/ben-ke-sheng-ru-he-zai-shi-yan-shi-hun-fan-chi-zhi-nan/</id>
@@ -222,18 +122,336 @@ https://www.businessenglishresources.com/learn-english-for-business/teachers-sec
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[理工科大佬装逼指南]]></title>
-        <id>https://SamanthaWangdl.github.io/post/ming-xiao-zhuang-bi-zhi-nan/</id>
-        <link href="https://SamanthaWangdl.github.io/post/ming-xiao-zhuang-bi-zhi-nan/">
+        <title type="html"><![CDATA[UP主的创作使命让我更好认识世界]]></title>
+        <id>https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/</id>
+        <link href="https://SamanthaWangdl.github.io/post/up-zhu-de-chuang-zuo-shi-ming-rang-wo-geng-hao-ren-shi-shi-jie/">
         </link>
-        <updated>2021-01-17T01:59:06.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>作为国内top大学的理工科大佬，必然要声称自己是从幼儿园开始参加ACM竞赛等世界性竞赛的天才。</li>
-<li>上课时，必然要表现出对无良教师的蔑视，以及为普通学生前程担忧的复杂眼神。提示可以利用激情敲打键盘的声响增强自己在课堂上大佬生人勿近的气势。</li>
-<li>当在公共场合受到挑衅时，请熟练运用“神”，“膜拜”，“巨”，“佬”等十分容易产生语义漂流的口水词进行不必要寒暄，比如在别人刺探你project完成什么程度时，可以尝试使用“卧槽！！！xx佬已经写到xxxl了，我裂/跪了”带动社交舆论压力对对方产生打击。</li>
-<li>寒假时必然要申请留校，因为身负重任的大佬是不能有假期的，实验室的师兄师姐还等着去打杂。</li>
-<li></li>
+        <updated>2021-01-05T15:16:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[献给千禧代的简体中文界互联网考古指南]]></title>
+        <id>https://SamanthaWangdl.github.io/post/xian-gei-qian-xi-dai-de-jian-ti-zhong-wen-jie-hu-lian-wang-kao-gu-zhi-nan/</id>
+        <link href="https://SamanthaWangdl.github.io/post/xian-gei-qian-xi-dai-de-jian-ti-zhong-wen-jie-hu-lian-wang-kao-gu-zhi-nan/">
+        </link>
+        <updated>2020-12-10T10:05:53.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E8%B1%86%E7%93%A3">豆瓣</a></li>
+<li><a href="#%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2">个人博客</a></li>
+<li><a href="#%E5%B0%8F%E4%BC%97%E7%A4%BE%E5%8C%BA">小众社区</a></li>
+<li><a href="#%E7%94%B5%E6%8A%A5%E7%BE%A4">电报群</a></li>
+<li><a href="#%E9%95%BF%E6%AF%9B%E8%B1%A1">长毛象</a></li>
+<li><a href="#rss-newsletter">RSS&amp; newsletter</a></li>
+<li><a href="#%E4%BF%A1%E6%81%AF%E6%BA%90%E7%9A%84%E6%95%B4%E7%90%86">信息源的整理</a></li>
+</ul>
+</li>
+</ul>
+<br>
+<em>本文原本是要投稿到少数派上的，但是因为审查没有过，所以就变成我一篇普通的长文了</em></p>
+<p>和互联网巨头一起成长起来的千禧代，不曾见过互联网的遗址。就如99年出生的我，可能和00后一样，是伴随着现在互联网巨头一起成长起来的，进入了<strong>信息茧房</strong>而不自知。</p>
+<p>还记得自己在初中的时候，班级里有了第一个同学使用知乎。谁能想到这六七年过去，知乎已经成为我的同龄人间最大的获取讯息的平台。而随着它成为简体中文界最大的知识寡头平台，这个平台的信噪比水准已经不复当初。</p>
+<p>但是随着我慢慢的成长，对于更加<strong>优质、开放、多元</strong>的信息的迫切需求让我对于无处不在的过滤气泡产生怀疑。从此我从中文互联网主流平台背井离乡，开始向互联网历史中的遗址进行考古，向互联网的角落里去进行挖掘。</p>
+<p>于是我想把自己的从互联网巨头平台出走经历写下来，分享给与我年龄相仿的、对信噪比较高的信息源有着同样需求的朋友们。因为篇幅限制，本文只讨论简体中文界的情况。</p>
+<figure data-type="image" tabindex="1"><img src="https://SamanthaWangdl.github.io/post-images/1610164417513.jpg" alt="" loading="lazy"></figure>
+<h2 id="豆瓣">豆瓣</h2>
+<p>大约在今年3月左右，我因为对知乎的情况绝望，所以搬迁到了豆瓣上，成为豆瓣的原住民，从此打开了我走向开放互联网的大门。豆瓣本身身的低调属性，在其他互联网域一直也没有怎么破圈，以至于很多人没有注意这里沉淀了多少精华内容，我在这里会给大家介绍下豆瓣的正确使用方法。</p>
+<p><strong>豆瓣最重要的消息源是来自你关注的人</strong>。可能豆瓣作为选书和选电影的网站的功能已经人尽皆知了，但是如果你没有进入豆瓣的社区就不会发现这里有多少真诚有趣的网民，几乎每天我在豆瓣都会发现从来不曾想象的人和对应的生活方式。</p>
+<p>经过10余年的沉淀，豆瓣留下了太多毫不过时且有用的深度内容，还有来自中文互联网田园时代的真诚网友，因此把豆瓣称为互联网的伟大遗址绝对不是过誉。（尽管它现在还是一个内部比较活跃的社区）</p>
+<p>所以如果你对豆瓣有了兴趣，希望从此进入友好真诚的互联网域，那么可以参考如下几个<strong>方式</strong>：</p>
+<ol>
+<li><strong>寻找感兴趣的人关注</strong>。豆瓣里有许许多多我称之为“互联网活动家”的前辈们，所以从关注他们开始，去看他们每天的动态和广播，去关注他们的关注列表。
+<ul>
+<li>Nova。同样在少数派活跃的Nova前辈，其生产力大爆炸系列让我在信息输入各方面都十分受用，也因此跟随前辈打开了telegram的新天地。</li>
+<li>穿堂风（https://www.douban.com/people/smile0802/）。穿堂风前辈可以说是豆瓣的互联网活动家了，不仅在做了400集的podcast笔记分享，还运作了最近在豆瓣很火的女性协助社区WomenOverseas。</li>
+<li>章鱼喵（https://www.douban.com/people/emptymalei/）脑洞很大的物理博士，火星移民运动的运作者。</li>
+</ul>
+</li>
+<li><strong>寻找感兴趣的书单和豆列</strong>。豆瓣沉淀了10多年的各种书单和豆列对于我十分有用，无论是我关注的前辈的豆列还是偶然看到的豆列，里面都有数不清的有用的资料。</li>
+<li><strong>阅读感兴趣的人的日记</strong>。关注一位豆邻后我第一件做的事情就是把对方的日记翻一遍，虽然日记名字叫作日记，但本质上还是长文章，如果是老豆瓣er了势必会在日记有多篇质量上乘的长文章。</li>
+<li><strong>看友邻的广播</strong>。如果在已经关注了一些感兴趣的豆邻之后，我们就可以快乐的在广播的时间线玩耍了，我一般会依据友邻的广播去选书或者产生对我自己发展的新的想法。</li>
+<li>看小组。豆瓣最近发展情况异常好的几个女性互助小组，强烈推荐给年轻的妹妹去看，比如{women in tech}和{women in academia}以及其各个其他行业的衍生小组。</li>
 </ol>
+<p>豆瓣之所以成为我现在最喜欢的互联网平台，一是因为它里面沉淀的真诚有趣的用户，而且大部分用户的生活阅历是比我多出许多了，所以在豆瓣里能看到成熟的网民的想法，二是因为豆瓣的历史足够悠久，因此积累下了10多年的文章和咨询，这让我在豆瓣搜东西的时候总有一种时间移民的感觉。</p>
+<h2 id="个人博客">个人博客</h2>
+<p>由于00后开始玩手机的时候，知乎已经足够成熟，所以我甚至我的同龄人没有接触过个人独立博客或者接触较少，也是情理之中的事情。但是随着我慢慢接触优秀历史悠久的个人独立博客，我发现独立博客的信噪比之高让我对它无法忽视。</p>
+<p>可能读理工科的同学对于CSDN之类的技术博客是非常熟悉的，但是我们在此不讨论纯技术博客。</p>
+<ul>
+<li>我正式非常认真阅读的第一个博客是<a href="http://www.ruanyifeng.com/">阮一峰老师的博客</a>, 一峰老师每周一期的科技爱好者周刊简单介绍科技新闻，新的小工具，优秀的英文博客文章，已经写了10年有余。记得我刚刚发现阮一峰老师的博客时，把他的文章从08年开始考古了一遍。</li>
+<li><a href="https://github.com/timqian/chinese-independent-blogs">chinese-independent-blog</a>是我在github上发现的一个汇聚简体中文界所有独立博客的一个项目，目前有100多个博客，基本目前我知道的著名独立博客都有收纳，这个项目还有一个对应的telegram群。</li>
+<li><a href="http://headsalon.org/">headsalon</a>是辉格前辈从上古时期开始一直运营到现在的思想类独立博客，包括关于经济学和社会学的讨论。我在偶然有幸误入这个互联网遗址，headsalon可以说是我毕生在互联网冲浪最令我震惊的几次发现之一。同样的思想类的博客还有<a href="http://www.mindmeters.com/">思维的乐趣</a>，但是在六七年前就已经停了。</li>
+</ul>
+<h2 id="小众社区">小众社区</h2>
+<p>还有一些已经发展成垂直社区的网站在这里我只是简单说一下，比如我们的母星少数派，此外36kr，人人都是产品经理，v2nex等都是如今分量非常大的社区了。</p>
+<p>在这里我要介绍一些我看到的真正的小众社区。</p>
+<ul>
+<li>利器。利器作为一个小众网站，现在已经渐渐往博客方向发展，但是服务器的网页端的确让我见识了各行各业的前辈的工作。其中利器的几个计划中对我帮助最大的是利器——城堡计划，一个数字人文的电子杂志，目前在语雀上可以看到<a href="https://www.yuque.com/gaohui-bdaa2/chengbao/cheng-bao-95-yue-liang-shi-ye-wan-de-shang-kou-ye">全集</a>。</li>
+<li>倪考梦。我在豆瓣认识的倪考梦前辈，因此发现了他公开的全部石墨笔记。</li>
+</ul>
+<h2 id="电报群">电报群</h2>
+<p>可能发生在telegram里的韩国丑闻是经过曝光才被大家知道的，但是电报群里有多少有趣的有用的开放信息源可能是大家不知道的。我是因为我的豆邻穿堂风的podcast分享telegram链接才发现了电报群这个新天地，后来又跟着关注了nova前辈的生产力大爆炸telegram，此外还有一些豆瓣上其他豆邻运作的电报群。在这里介绍一些我关注的电报群，更多优质的电报群可以看https://tingtalk.me/telegram/。</p>
+<ul>
+<li>穿堂风的<a href="https://t.me/daily_dose_podcast">Your Daily Dose of Podcast</a>每天推荐一集让人心潮澎湃、若有所思、打开新世界大门的播客节目，超过400集的优秀播客节目总结。</li>
+<li>nova的https://t.me/tms_ur_way TMS Discussion</li>
+<li><a href="https://t.me/tingtalk">庭说</a>第一时间获取博客的更新通知以及碎片化思考。</li>
+<li><a href="https://t.me/caozsay">caoz 的梦呓</a>打开互联网入口的曹老师</li>
+<li><a href="https://t.me/mactalk">卖桃者说</a>Mactalk，学极客时间时间时了解的池老师。</li>
+<li><a href="https://t.me/zhiwuzhi">值物志</a>分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧……</li>
+<li>我的豆瓣友邻Am Neumarkt 😱的https://t.me/amneumarkt</li>
+</ul>
+<h2 id="长毛象">长毛象</h2>
+<p><strong>Mastodon</strong>（又称<strong>长毛象</strong>或<strong>万象</strong>）是一个免费<a href="https://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90">开源</a>的<a href="https://zh.wikipedia.org/wiki/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96">去中心化</a>的<a href="https://zh.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E5%BC%8F%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF">分布式</a><a href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%8D%9A%E5%AE%A2">微博客</a><a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1">社交网络</a>。它的<a href="https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2">用户界面</a>和操作方式跟<a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%89%B9">推特</a>类似，但是整个网络并非由单一机构运作，却是由多个由不同营运者独立运作的<a href="https://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8">服务器</a>以<a href="https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%AF">联邦</a>方式交换资料而组成的<a href="https://zh.wikipedia.org/wiki/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96">去中心化</a><a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%B5%A1">社交网络</a>。</p>
+<p>在10月豆瓣的审查又变严后，身边的豆邻大批出走到了长毛象社区上。由于长毛象的去中心化机制，长毛象天生具有了开放的特性。长毛象的每一个站点叫做一个实例，目前中文网域最大的实例是<a href="https://cmx.im/">草莓县</a>。如果你是一个对于开放互联网感性趣的人可以先进入草莓县，在这里认识一些朋友，草莓县的讨论内容主要包括喵、汪、各种动物、社交、科技、编程及生活。如果在熟悉了长毛象的机制之后，你可以在选择更符合自己品味的实例落户。</p>
+<ul>
+<li>对于长毛象更加具体的使用方法可以参考https://sspai.com/post/46868。</li>
+<li>对于全宇宙的长毛象实例进行筛选的网站https://instances.social/list#lang=zh&amp;allowed=&amp;prohibited=&amp;min-users=&amp;max-users=</li>
+</ul>
+<h2 id="rss-newsletter">RSS&amp; newsletter</h2>
+<p>在刚刚上大学的时候，我偶然知道了RSS，一种订阅互联网各个信息孤岛上的消息的工具。在这之后不久又用邮箱订阅了阮一峰大大的邮箱订阅。可能对于千禧年左右的人，无论是rss还是邮箱订阅都已经经历过他们在互联网的黄金年代，因此可以称的是互联网遗址了。但是现在这种干净又可靠的私人定制式信息源成为了我的心头好。</p>
+<p>使用rss可能稍微有一些门槛，没有接触过的同学可以先尝试使用邮箱订阅。在这里推荐一些邮箱订阅给学生党们。</p>
+<ul>
+<li>大学、专业及 newsletter，国外的大学都会有自己的邮箱订阅，方便我们跟踪这个学校的动向。</li>
+<li>行业、协会及 newsletter，比如我做生医工的学术协会就会有自己的newsletter。</li>
+<li>一些非常好的杂志，我推荐——
+<ul>
+<li><em>Economist this Week</em></li>
+<li><em>The Atlantic Weekly</em></li>
+<li><em>Harvard Business Review</em></li>
+<li><em>MIT Tech Review</em></li>
+<li><em>Vault Career Guide</em></li>
+</ul>
+</li>
+<li>学术圈人士还可以通过 Google Scholar 去订阅自己关注的学者的新动态。</li>
+<li>此外一些优秀的独立中文邮箱订阅：
+<ul>
+<li>阮一峰</li>
+<li>湾区日报</li>
+</ul>
+</li>
+</ul>
+<p>关于这个邮箱订阅的话题我为大家选出了几篇非常有参考性的文章</p>
+<ul>
+<li>https://sspai.com/post/62935</li>
+<li>https://sspai.com/post/40470</li>
+</ul>
+<h2 id="信息源的整理">信息源的整理</h2>
+<p>notion整理</p>
+<p>找人</p>
+<p>互联网的LGBT，</p>
+<p>流动的时代</p>
+<p>互联网考古学</p>
+<p>缺少对互联网历史咨询的关注就使得我们的话题讨论反反复复</p>
+<p>有缘再会</p>
+<p>每一个博客，都是一座信息孤岛</p>
+<p>2020 年，独立博客会迎来“文艺复兴”吗？</p>
+<p>信息茧房</p>
+<p>独立电子杂志</p>
+<p>信息孤岛</p>
+<p>过滤泡沫</p>
+<p>人在哪里我就去哪里</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ph.D. Grind：及时止损，经常做pre]]></title>
+        <id>https://SamanthaWangdl.github.io/post/phd-grindji-shi-zhi-sun-jing-chang-zuo-pre/</id>
+        <link href="https://SamanthaWangdl.github.io/post/phd-grindji-shi-zhi-sun-jing-chang-zuo-pre/">
+        </link>
+        <updated>2019-08-06T03:24:19.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E6%A6%82%E8%A6%81">概要</a></li>
+<li><a href="#%E4%BB%A4%E6%88%91%E6%84%9F%E8%A7%A6%E6%AF%94%E8%BE%83%E6%B7%B1%E7%9A%84%E5%87%A0%E7%82%B9">令我感触比较深的几点：</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+</ul>
+</p>
+<h1 id="概要">概要</h1>
+<p>Ph.D. Grind讲述了作者从进入斯坦福经历6年计算机博士毕业的过程。其中经历从开始进入错的研究方向导致3年都没有发出文章，而后在许许多多其他的机会的引导下作者走上独立非常冷门的software optimize的方向，并在贵人的帮助下独立完成Incpy、CDE等5个项目，最终成功毕业的故事。</p>
+<p>对于作者帮助最大有以下几点：</p>
+<ul>
+<li>在workshop的presentation后遇到贵人</li>
+<li>在自己coldemail中找到重要贵人</li>
+<li>微软实习和谷歌实习都一定程度让他转型到后来的研究方向<br>
+<img src="https://SamanthaWangdl.github.io/post-images/1610164117324.jpg" alt="" loading="lazy"></li>
+</ul>
+<h1 id="令我感触比较深的几点">令我感触比较深的几点：</h1>
+<ul>
+<li>Creative ideas mean nothing without the great effort to bring them fruition：看过作者经历数千小时的磨难才将自己的项目的代码完成，而这个想法确实他在博一就想出过的，这让我意识到在science领域提出新观点的确重要，但是后期的优化和不断的改进才是把理论变成产品的关键。</li>
+<li>我也非常想真的做好一个产品，让更多的人喜欢上它。在作者将自己的项目放到网上，并建立社区来运营，甚至提供给其他领域的老师使用，这种成就感也让我心潮澎湃。相比作者说的其他那些只将学术成果放在象牙塔内，只留下想法而不打磨的事业，我还是比较喜欢做工程和做企业。</li>
+<li>Ideas beget idea：相比作者后面的几个项目，他走上这个研究领域的过程更加困难。</li>
+<li>真诚的对帮助的贵人表示感谢</li>
+<li>经常出去做pre能提高遇到贵人的机会，并经常身边的人讨论，simply doing good work isn't enough to get noticed in a hyper-competitive field.</li>
+<li>学术圈有套路，发文章需要抱对大腿。找到领域最aggresive的教授（希望拿到tenure的）能极大简化发展过程。</li>
+<li>拥有没有任何limitation 的sponsership会为你带来巨大的自由，你不用受制于任何人，而且任何教授都会愿意接受你。</li>
+<li>及时止损。作者的重大转折是他停止了第一个项目，否则迎接他的就是pity graduation。在没有希望的研究项目面前，及时止损转型。（当然这是需要你拥有自己的sponsership的，btw，往往拥有了tenure的话教授就会做这种不知道发不发出来的项目，巨坑）</li>
+<li>对身边的机会保持警惕，不要在一条路上走到黑。对作者最重要的几项经历反而完全不发生在他所在的实验室里。</li>
+<li>对教授和博士的动机了解清楚有助于让他们更好的帮助你,比如有tenure的教授不太会在乎发论文，没有tenure的教授会非常想发论文，高年级博士着急发文需要人打杂。</li>
+<li>Online submission forms are black holes!!!</li>
+<li>Computer science research is lab our intensive,researchers often hire Ph.D students as summer interns to help implement their ideas.</li>
+<li>科技公司的研究部门因为没有教职和行政上的要求，反而是做学术更好的地方。</li>
+</ul>
+<h1 id="conclusion">Conclusion</h1>
+<p>看完这本Ph.d grind，真真正正体会到了phd的各种grind，作者一二年级的劳动苦力，三四年级的迷惑，五六年级命悬一线，基本没有展示出任何Ph.D.的attractive point，但是正如作者在文尾说的：Ph.D. program provides a safe environment for certain types of people to push themselves far beyond their mental limits and then emerge stronger as a result. 能突破个人极限这才是要选择读Ph.D.的意义。此外学到的两点，及时止损，经常做pre。</p>
+<figure data-type="image" tabindex="1"><img src="https://SamanthaWangdl.github.io/post-images/1610164148029.jpg" alt="" loading="lazy"></figure>
+<p>#书摘<br>
+This journey has taught me ​that creative ideas mean nothing without the extreme e↵ort to ​bring them to fruition<br>
+19年06月08日 04-16</p>
+<p>Ideas beget ideas<br>
+19年06月08日 04-15</p>
+<p>Even a quick thank-you email goes a long way<br>
+19年06月08日 04-14</p>
+<p>Express true gratitude<br>
+19年06月08日 04-14</p>
+<p>whenever I ​felt stuck, I sought experts who could help me get unstuck. Finding ​help can be as simple as asking a friend in my department, or it ​might require getting referrals or even cold-emailing strangers<br>
+19年06月08日 04-14</p>
+<p>thousands of hours ​of hard grinding would go to waste if I failed to properly pitch the ​big-picture significance of my research to my target audience: se­nior academic colleagues<br>
+19年06月08日 04-11</p>
+<p>Give many talks<br>
+19年06月08日 04-09</p>
+<p>Ally with insiders<br>
+19年06月08日 04-07</p>
+<p>Reject bad defaults<br>
+19年06月08日 04-04</p>
+<p>By understanding the motivations and per­sonalities of older Ph.D. students, professors, and other senior col­leagues, I was able to lead my own initiatives even from the bottom ​of the pecking order<br>
+19年06月08日 03-58</p>
+<p>culminating in getting to work with Margo ​at Harvard during my final year. But these fortuitous opportunities ​wouldn’t have arisen if I didn’t repeatedly put myself and my work ​on display—giving talks, chatting with colleagues, asking for and ​o↵ering help, and expressing gratitude<br>
+19年06月08日 03-57</p>
+<p>Ph.D. program provides ​a safe environment for certain types of people to push themselves far ​beyond their mental limits and then emerge stronger as a result<br>
+19年06月08日 03-53</p>
+<p>I received the opposite of a miracle: Both my IncPy and SlopPy pa­per submissions were rejected. I was disappointed but not too shocked, ​since I had already grown accustomed to paper rejections by this time.<br>
+There were lots of legitimate criticisms of my work, so I felt that ad­dressing them would strengthen my future resubmissions<br>
+19年06月03日 01-48</p>
+<p>This deep pain of dealing ​with software dependen­cies would later inspire ​CDE, the new project I ​started in Year Five<br>
+19年06月03日 12-42</p>
+<p>One benefit of presenting ​a talk on a paper is that ​people can chat with you ​about it afterward, which ​can lead to serendipity.<br>
+new Python-based project that her student Elaine was starting. Since ​<br>
+19年06月03日 12-31</p>
+<p>I discovered that ​this strategy of finding and setting short-term deadlines for myself ​would work wonders in keeping me focused throughout the rest of my ​Ph.D. years. Without self-imposed deadlines, it becomes easy to fall ​into a rut and<br>
+19年06月03日 12-30</p>
+<p>Part of luck is ​always keeping your eyes ​open for new opportuni­ties while simultaneously ​focusing enough to make ​consistent progress<br>
+19年06月03日 12-29</p>
+<p>Thus, top-tier com- That said, having work­shop papers can be a ​path toward “pity grad­uation” because it’s still ​better than having no ​published papers.<br>
+That said, having work­shop papers can be a ​path toward “pity grad­uation” because it’s still ​better than having no ​published papers.<br>
+puter science professors strongly encourage students to publish more ​selective conference papers and eschew workshops altogether<br>
+19年06月03日 12-27</p>
+<p>since if the paper gets accepted (which is likely), ​the professor must pay around $1,500 of travel, hotel, and registration ​costs using their grant money for the student to attend and give a ​talk at the workshop<br>
+19年06月03日 12-26</p>
+<p>. The ​combination of a well-defined, short-term goal and continual helpful This is an unbeatable ​combination, and one ​that I try to provide for ​my own students.<br>
+that I try to provide for feedback made my internship workdays much more productive than ​those during my previous three years of grad school<br>
+19年06月01日 12-52</p>
+<p>From this ​experience, I learned about the importance of being endorsed by an ​influential person; simply doing good work isn’t enough to get noticed ​in a hyper-competitive field.</p>
+<p>---------------<br>
+学会如何和更厉害愿意帮助自己的人链接关系<br>
+19年06月01日 12-49</p>
+<p>From this ​experience, I learned about the importance of being endorsed by an ​influential person; simply doing good work isn’t enough to get noticed ​in a hyper-competitive field<br>
+19年06月01日 12-49</p>
+<p>Having a published pa­per was crucial here, ​since I could point Tom ​to a vetted document ​instead of just rambling ​about my idle specula­tions on this topic<br>
+19年06月01日 12-47</p>
+<p>If I didn’t do a great job ​during my first under­graduate research project ​and keep in touch with ​my supervisor throughout ​the years, then this lucky ​connection wouldn’t have ​happened<br>
+19年06月01日 12-46</p>
+<p>Online submission forms ​are black holes. Anything ​is better than blindly ​submitting online<br>
+19年06月01日 12-45</p>
+<p>Since lots of computer science ​research is labor-intensive, researchers often hire Ph.D. students as ​summer interns to help implement their ideas<br>
+---------------<br>
+也许科技公司的研究部门也是我可以考虑的暑假申请地方<br>
+19年06月01日 12-41</p>
+<p>Since lots of computer science ​research is labor-intensive, researchers often hire Ph.D. students as ​summer interns to help implement their ideas<br>
+19年06月01日 12-41</p>
+<p>Getting a full-time researcher position at MSR is as di&quot;cult as Some researchers I know ​there also got faculty job ​offers at top universities. getting a job as a professor at a prestigious university<br>
+19年06月01日 12-40</p>
+<p>The full-time researchers are like professors, ​except that they can focus nearly all of their time on research since ​they don’t have teaching or advising duties. But perhaps their favorite ​job benefit is that they don’t need to apply for grant funding, which is ​a tedious recurring activity that saps professors’ time<br>
+---------------<br>
+原来科技公司的研究部门是可以更加纯粹的研究，而没有行政上的琐事<br>
+19年06月01日 12-40</p>
+<p>But perhaps their favorite ​job benefit is that they don’t need to apply for grant funding, which is ​a tedious recurring activity that saps professors’ time<br>
+19年06月01日 12-39</p>
+<p>The full-time researchers are like professors, ​except that they can focus nearly all of their time on research since ​they don’t have teaching or advising duties<br>
+19年06月01日 12-38</p>
+<p>In e↵ect, Ph.D. students working with those young researchers were ​more easily able to publish and graduate, while Dawson’s students had ​a much harder time by comparison<br>
+19年06月01日 12-34</p>
+<p>36 The Ph.D. Grind ​So what was di↵erent here? In short, neither Cristi nor Dawson ​were truly hungry to publish. They had already published several Klee ​papers together, and a cross-checking paper coauthored with me would ​have been a “nice-to-have” but not mandatory follow-up publication.<br>
+Cristi was in his final year of Ph.D. and didn’t need to publish any more ​papers to graduate, and Dawson already had tenure, so he wasn’t in a ​rush to publish either. In contrast, Joel was a mid-stage Ph.D. student ​who was itching to publish the first paper of his dissertation, and Scott ​was an assistant professor who needed to publish prolifically to earn ​tenure. These two opposing experiences taught me the importance of ​deeply understanding the motivations and incentives of one’s pot<br>
+19年05月29日 12-27</p>
+<p>But back then, I was so burned-out and ​frustrated with the traditional pecking order of group-based research— ​putting new Ph.D. students through the meat grinder on the most ​unglamorous work—that I recoiled and went o↵ on my own<br>
+19年05月26日 12-35</p>
+<p>Learning to send succinct ​and effective professional ​emails has benefited my ​career tremendously<br>
+19年05月25日 12-12</p>
+<p>In contrast, Dawson was ​already-tenured and had ​only a mild side interest ​in this topic. The les­son here is that it’s very ​hard to publish on a ​topic if your advisor isn’t ​also obsessively thinking ​about it, since you’re di­rectly competing against ​other students whose ​advisors are obsessively ​thinking about<br>
+19年05月27日 01-01</p>
+<p>One of those students ​dropped out of the Ph.D.<br>
+program after over nine ​years in the department ​and zero publications, ​and the other one grad­uated after nine years ​and only one Klee-related ​publication. That pub­lication addressed the ​same search algorithm ​problem that I originally ​attempted. It took that ​student five years to pub­lish that paper, which let ​him graduate<br>
+---------------<br>
+及时止损。<br>
+体谅博士。<br>
+19年05月31日 12-36</p>
+<p>teaming up with Peter<br>
+---------------<br>
+和一个想发论文的老博士合作，nice<br>
+19年05月31日 12-39</p>
+<p>His publishing track record ​when he was a student was beyond prolific, which is how he got a ​top-tier faculty job at Stanford. However, since he was now busy with ​professor duties such as teaching, committee work, paper reviewing, ​and other errands, he could not devote the thousands of hours of ​focused labor necessary to turn this idea into a publishable paper.<br>
+Like all professors in labor-intensive research fields, Dawson needed ​students to execute on his visions<br>
+19年05月31日 12-43</p>
+<p>His publishing track record ​when he was a student was beyond prolific, which is how he got a ​top-tier faculty job at Stanford. However, since he was now busy with ​professor duties such as teaching, committee work, paper reviewing, ​and other errands, he could not devote the thousands of hours of ​focused labor necessary to turn this idea into a publishable paper.<br>
+Like all professors in labor-intensive research fields, Dawson needed ​students to execute on his visions<br>
+---------------<br>
+教授生活<br>
+19年05月31日 12-44</p>
+<p>danger. In ​fact, one of the purposes of tenure is to allow professors to take risks ​by attempting bolder project ideas<br>
+19年05月31日 12-47</p>
+<p>Fellowships are impor­tant not for the money, ​but rather for the free­dom from grant-related ​constraints<br>
+19年05月31日 12-47</p>
+<p>The professor might need to go through several rounds of student ​failures and dropouts before one set of students eventually succeeds<br>
+19年05月31日 12-48</p>
+<p>I can now see why this ​plan was doomed to fail.<br>
+No professor wants to ​join a random committee ​for a student they don’t ​even know, especially one ​in another department<br>
+19年06月02日 12-59</p>
+<p>plan was doomed to fail.<br>
+No professor wants to ​join a random committee ​for a student they don’t ​even know, especially one ​in another department<br>
+---------------<br>
+决定，依赖于现实<br>
+19年06月02日 01-00</p>
+<p>The nearly ten thou­sand hours I had spent doing many types of programming over the past ​decade—in classroom, hobby, research lab, and engineering internship ​settings—prepared me to endure the intensely intricate programming ​required to implement research ideas such as IncPy<br>
+19年06月02日 01-03</p>
+<p>ll always miss those ​purer times. In my cur­rent job, there’s no way I ​can block off three weeks ​just to code non-stop<br>
+19年06月03日 06-23</p>
+<p>In sum, the purpose of academic research is This is a very important ​point. It’s not our job ​as academics to ship ​polished products; that’s ​the role of companies.<br>
+This is a very important ​to produce validated ideas, not polished products<br>
+19年06月03日 06-26</p>
+<p>Google Tech Talks<br>
+19年06月03日 06-32</p>
+<p>, talks lead to more ​and more serendipity<br>
+19年06月03日 06-34</p>
+<p>The reviewers loved how we honestly ​acknowledged the failures of our evaluation and extracted valuable in­sights from them. Without a doubt, our paper would have never been ​accepted if not for Je↵’s rhetorical expertise<br>
+19年06月03日 06-42</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在坡县医学院做文化难民——DUKE-NUS游记]]></title>
+        <id>https://SamanthaWangdl.github.io/post/zai-po-xian-yi-xue-yuan-zuo-wen-hua-nan-min-duke-nus-you-ji/</id>
+        <link href="https://SamanthaWangdl.github.io/post/zai-po-xian-yi-xue-yuan-zuo-wen-hua-nan-min-duke-nus-you-ji/">
+        </link>
+        <updated>2019-07-31T04:17:21.000Z</updated>
+        <content type="html"><![CDATA[<p>去新加坡是我第一次出国读书，期间遇到了很多困难，基本不可以说是一趟快乐的旅行，说是一场修炼比较合适。自己当时想申请新加坡的医学院，所以作为国内本科的唯一一个人去了新加坡医学院的暑期学校。语言不通又对当地不太了解，再加上自己以前也没有过这种历练，所以期间比较退缩，有时希望逃避和新加坡同学一起上课所以跑到卫生间里躲起来，即使是现在看来也是比较痛苦的一段经历。!<img src="https://SamanthaWangdl.github.io/post-images/1610165203585.jpg" alt="" loading="lazy"></p>
+<p>说起当时的困难，最难忘的是因为自己上课是小组讨论，组里都是新加坡的同学或者美国的同学，自己也是第一次在英语母语环境下上课，所以非常不适应，从国内带去的自信心基本在新式英语，加州英语和印度英语的夹击下灰飞烟灭，尤其是大部分的小组活动是为了最后的英语辩论关于医学伦理的，专业的话题让我更没办法在小组里插上话，所以一上午做下来看着别的同学不停的说，自己一句话也不说，心里越来越郁闷，最后竟然难过到去了卫生间不想出来，躲着过了一节课的地步。</p>
+<p>再后来几天，自己觉得自己没法融入所以也逃了不少活动和课程。令我至今还觉得非常羞愧的是，当时一天要去参观本地的一个医院，我就逃了去参观新加坡国立的学校和图书馆，结果当时刚好在半路上遇到坐着大巴去的集体同学，真的是羞愧万分。一直到最后结业后的BBQ，自己终于可以正大光明的落荒而逃了，所以赶紧撤人回了宾馆。我一开始自我感觉超级良好地去了新加坡，走的时候因为诚惶诚恐连一句普通的英语都说不顺溜，真的是在各种医学伦理相关英语辩论中被打击到了。<br>
+<img src="https://SamanthaWangdl.github.io/post-images/1610165250061.jpg" alt="" loading="lazy"></p>
+<p>那么可以说我对新加坡的印象是很不好的吗？其实并不是这样，我自己在新加坡的一段语言和文化上的弱者经历其实让我体会到了新加坡的开放和温情。</p>
+<p>新加坡的现在的孩子基本不说汉语了，但是当时小组里有一个叫伶的姐姐恰恰是家里说汉语比较多，所以跟我比较合得来。伶姐因为是新加坡锡安教会的教徒，每周要去礼拜，而她自己家里经济条件很不好，有残疾的姐姐需要她照顾，但是跟她在一起几乎所有人都会被她真诚的对你关心所打动。</p>
+<p>当时我每天盼着她照顾完姐姐早点来学校可以跟我说说话，她来了之后坐在我旁边我真的非常高兴。自己因为比较难过躲在卫生间里不去上课，除了她也没有人注意到我，她下午从家里来学校后看到我不在赶紧联系我，我只能回答肚子腹泻赖在卫生间不出来，谁能想到她下课的时候来卫生间找我，我只好回答没事了所以跟着她回了教室。她给我讲了她的教会的耶稣的教义，也陪着我和其他同学说话，我还记得她陪着我和班里一位印度同学说话，我听不太懂印度同学在说什么，所以她一点点给我翻译。每次辩论练习的时候需要每位同学坐在下面对辩手提问，我觉得自己英语不好尽量回避这种提问，伶姐有的时候替我着急就帮我举手提问把我的想法从中文翻译过去，弄得我更加羞愧。</p>
+<figure data-type="image" tabindex="1"><img src="https://SamanthaWangdl.github.io/post-images/1610165267771.jpg" alt="" loading="lazy"></figure>
+<p>其实去读新加坡新学院的同学大多是新加坡本地比较有钱家里的小孩，所以当时伶姐给我推荐去买衣服的地方竟然是类似国内大菜市的地方，让我对她的家里的情况才变得清楚。我现在还记得当时见到这样一位姐姐，让我对很多看起来夸大其次的赞扬都和她相得益彰，家里情况非常不好，姐姐参加所以想读新加坡医学院，但是到底是读医学院还是学护理都无所谓，因为她要考虑离家比较近方便回家照顾姐姐，每天相信基督教行善事，真心帮助别人，我从出生以来见到真正像圣母的女孩子。结业典礼上我给她写了一封明信片抄上了我最喜欢的诗。</p>
+<hr>
+<p>另外在新加坡期间和印度人民还有东南亚的一些人民熟悉了很多。班级里就有几位印度同学，有几位是看起来非常像美国电影里的印度精英的孩子，说话基本没有印度味道，看起来也比较高傲。但是我们组里的印度同学却不是这一派的，组里的印度同学是来自印度本土，说话让我听不太懂，在新加坡读书，为人非常亲和，每个人说话的时候都会认真倾听。因为我印度英语不太适应，他在发表观点的时候我听不太懂，记得最后的辩论他结题做了很长的四辩的总结，说完的瞬间，全场的老师同学都被他热烈鼓掌，他最后也拿了最佳辩手，但是比较魔幻的是我根本没有听懂他在说什么。就这样一位可爱又比较厉害的印度同学，在最后的BBQ，跟不被大家搭理的我聊了起来，讲了他家是如何在印度的小城市生活的，我们还说了在中国看的阿米尔汗的电影，但是印度电影在新加坡好像没有什么市场。当时我们都穿着正装，他非常绅士又很亲和，也比较受大家尊重，让我对自己怀有的印度人的刻板印象非常惭愧。</p>
+<figure data-type="image" tabindex="2"><img src="https://SamanthaWangdl.github.io/post-images/1610165312260.jpg" alt="" loading="lazy"></figure>
+<p>因为我在新加坡住的时候图房租便宜，住在小印度区，是印度人很多非常有印度风情的一个区。我们楼下是一个印度飞饼店，我去吃了几次，店里的老板伙计都是肤色非常非常黑的人，按照听说过的印度种姓应该是最低等的人，但是在新加坡这样一个各个国家种族血统文化的大熔炉里，大家都平等地过着自己的小日子，在店里伙计亲切地给我推荐食物，让我对自己对印度人怀有的刻板印象再度惭愧。</p>
+<p>其实我和东南亚人民的交往可以说是比较久的事了，我之前经常在网上上菲律宾外教的口语课，我的外教是和我同岁的菲律宾人，因为都是学生，所以聊得很多。菲律宾，尽管我们在国内的报道中看到的都是关于旅游，或者它政治如何混乱，贫富差距，人民生活水平非常差之类的说法，但是从我和我外教一年左右的交流中，感受到的却是菲律宾人民基督教徒的信仰般的快乐。即使这样我在新加坡国家博物馆看到的菲律宾的展示中还是非常震惊的，菲律宾在国际上非常不好的性交旅游的名称是我早就知道的，但是看到一些单纯的菲律宾孩子去做童妓，甚至男孩子变形做色情交易养活家人的纪实影片还有画，都让我非常心碎，尤其是看到他们都面带菲律宾人标准的单纯的笑容。![IMG_0857](C:\Users\admin\Downloads\Photos (4)\IMG_0857.jpg)</p>
+<p>因为在学校修过世界音乐文化的课，对东南亚的音乐和文化尤其了解。班级里有位越南的姐姐，在法国读生医工的博士，研究项目申请的专利为自己国家赚了很多钱，我当时还在新加坡地铁上遇见了他们一家人，就是我印象中穿着奥黛的朴实善良的越南人。但是这位来自越南的姐姐在法国读生医工博士的故事，还是让我非常惊讶，这就是刻板印象带来的坏处吧。</p>
+<p>新加坡因为它的多民族融合性，可以说是典型的非常成功的多民族多语言融合的国家。各个文化在新加坡交织繁荣，又因为新加坡政府20世纪后半期的规划，让多民族都能在新加坡有平等的地位，所以即使如语言和文化难民的我来到新加坡，也会被它所包容，并带给我来自各个民族的新的认识。</p>
+<hr>
+<p>再比较值得说的就是班级里的中国同学。有几位美本的同学是不屑于和我说话的，另外几位姐姐都是国内读过书的。有位高考后去了香港读会计的姐姐A，想要当医生来了新加坡这个营，还有位高中在上海读后来在美国读生物的非常亲切的姐姐B，还有位在国内ICU实习的姐姐C。跟这几位姐姐说话是非常有意思的，C经常和我们说她在ICU里见到的各种临死的伦理惨案，即使外国同学也会被她吸引听她讲，她在新加坡医学院这片地方已经呆了半年多了，其间一直在医院实习。B姐姐就是看起来非常普通的姐姐却是心里非常强大的人，在学校成绩很好，当时我们说话的时候她说学业好累但是好想去非洲拯救野生动物，后来半年后看到她的朋友圈的确人在非洲。A姐姐和我年龄相仿，所以我们一起去了很多地方玩耍。总之有这几位中国的小伙伴陪伴，也让我增添了很多勇气，让我第一次在海外求学不至于更加孤单恐怖。</p>
+<figure data-type="image" tabindex="3"><img src="https://SamanthaWangdl.github.io/post-images/1610165336838.jpg" alt="" loading="lazy"></figure>
+<p>说实话 ，我在来新加坡这趟前就已经规划好自己未来一定要出国读博士，非常羡慕那些在海外有名校光环的同学，现在想来简直是无知的可笑，出国读书的光鲜可能是只有国内的人才能看到，自己在外究竟生活的怎么样，到底收获多少只有自己回味过来才清醒。自己原本不了解就盲目崇拜的心理就是在无知状态下被光鲜的国外生活所洗脑的。这遭做了新加坡的文化难民才体会出海外求学的苦涩。但是这些困难也不是不可克服的，因为我在新加坡待的时间短，适应的还不够所以一开始受到的刺激比较大，但是现在已经皮糙肉厚，无所谓丢不丢人，能谦虚的学习才是应该持有的海外求学态度。</p>
+<figure data-type="image" tabindex="4"><img src="https://SamanthaWangdl.github.io/post-images/1610165348824.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
